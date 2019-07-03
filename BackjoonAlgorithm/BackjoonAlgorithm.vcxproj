@@ -20,10 +20,11 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{23EC38A2-3D23-4A4D-8A77-889278A462CD}</ProjectGuid>
+    <ProjectGuid>{C768379E-2340-4AC6-854D-B58A805A647C}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>MiscAlgorithm</RootNamespace>
+    <RootNamespace>BackjoonAlgorithm</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>BaekjoonAlgorithm</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -70,38 +71,35 @@
     <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LinkIncremental>true</LinkIncremental>
-    <OutDir>$(ProjectDir)\Binaries\$(Configuration)\$(Platform)\</OutDir>
-    <IntDir>$(ProjectDir)\Intermediates\$(Configuration)\$(Platform)\</IntDir>
-    <IncludePath>$(ProjectDir)Source\Public\;$(ProjectDir)Source;$(IncludePath)</IncludePath>
-  </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
     <OutDir>$(ProjectDir)\Binaries\$(Configuration)\$(Platform)\</OutDir>
     <IntDir>$(ProjectDir)\Intermediates\$(Configuration)\$(Platform)\</IntDir>
-    <IncludePath>$(ProjectDir)Source\Public\;$(ProjectDir)Source;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(ProjectDir)\Binaries\$(Configuration)\$(Platform)\</OutDir>
+    <IntDir>$(ProjectDir)\Intermediates\$(Configuration)\$(Platform)\</IntDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(ProjectDir)\Binaries\$(Configuration)\$(Platform)\</OutDir>
     <IntDir>$(ProjectDir)\Intermediates\$(Configuration)\$(Platform)\</IntDir>
-    <IncludePath>$(ProjectDir)Source\Public\;$(ProjectDir)Source;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <OutDir>$(ProjectDir)\Binaries\$(Configuration)\$(Platform)\</OutDir>
     <IntDir>$(ProjectDir)\Intermediates\$(Configuration)\$(Platform)\</IntDir>
-    <IncludePath>$(ProjectDir)Source\Public\;$(ProjectDir)Source;$(IncludePath)</IncludePath>
   </PropertyGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <ClCompile>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile />
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -111,14 +109,15 @@
       <Path>$(ProjectDir)\Logs\$(MSBuildProjectName).log</Path>
     </BuildLog>
   </ItemDefinitionGroup>
-  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <PrecompiledHeader>NotUsing</PrecompiledHeader>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile />
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -138,6 +137,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile />
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -159,6 +159,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeaderFile />
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -171,19 +172,13 @@
     </BuildLog>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="NQueens.cpp" />
-    <ClCompile Include="Source\MiscAlgorithm.cpp" />
-    <ClCompile Include="Source\Private\CountingCellsInBlob.cpp" />
-    <ClCompile Include="Source\Private\MazeRecursive.cpp" />
-    <ClCompile Include="Source\Public\RodCutting.cpp" />
+    <ClCompile Include="BaekjoonAlgorithm.cpp" />
+    <ClCompile Include="Sources\baekjoon-1000.cpp" />
+    <ClCompile Include="Sources\baekjoon-1018.cpp" />
+    <ClCompile Include="Sources\baekjoon-1932.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Source\MiscAlgorithm.h" />
-    <ClInclude Include="Source\Public\CountingCellsInBlob.h" />
-    <ClInclude Include="Source\Public\ExecuteInterface.h" />
-    <ClInclude Include="Source\Public\MazeRecursive.h" />
-    <ClInclude Include="Source\Public\NQueens.h" />
-    <ClInclude Include="Source\Public\RodCutting.h" />
+    <ClInclude Include="Sources\Essential.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
