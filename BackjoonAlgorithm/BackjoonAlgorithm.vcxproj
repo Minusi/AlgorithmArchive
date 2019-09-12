@@ -172,11 +172,13 @@
     </BuildLog>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1002. 터렛.cpp" />
     <ClCompile Include="10250. ACM 호텔.cpp" />
     <ClCompile Include="1085. 직사각형에서 탈출.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="1436. 영화감독 숌.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
+    <ClCompile Include="2581. 소수.cpp" />
     <ClCompile Include="2775. 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798. 블랙잭.cpp" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
