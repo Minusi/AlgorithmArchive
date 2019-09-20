@@ -1,0 +1,22 @@
+﻿#include <iostream>
+using namespace std;
+
+#define DEBUG
+#ifdef DEBUG
+#include <chrono>
+#include "Utility.h"
+#endif
+
+
+
+int main()
+{
+	ios::sync_with_stdio(false);
+
+	int N;
+	cin >> N;
+
+
+
+	return 0;
+}
