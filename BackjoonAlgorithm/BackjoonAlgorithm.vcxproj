@@ -177,12 +177,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1002. 터렛.cpp" />
+    <ClCompile Include="1021. 회전하는 큐.cpp" />
     <ClCompile Include="10250. ACM 호텔.cpp" />
     <ClCompile Include="1037. 약수.cpp" />
     <ClCompile Include="10814. 나이순 정렬.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
     <ClCompile Include="10845. 큐.cpp" />
     <ClCompile Include="1085. 직사각형에서 탈출.cpp" />
+    <ClCompile Include="10866. 덱..cpp" />
+    <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
     <ClCompile Include="11050. 이항 계수 1.cpp" />
     <ClCompile Include="11051. 이항 계수 2.cpp" />
@@ -200,6 +203,7 @@
     <ClCompile Include="1904. 01타일.cpp" />
     <ClCompile Include="1931. 회의실배정.cpp" />
     <ClCompile Include="1932. 정수 삼각형.cpp" />
+    <ClCompile Include="1966. 프린터 큐.cpp" />
     <ClCompile Include="2004. 조합 0의 개수.cpp" />
     <ClCompile Include="2108. 통계학.cpp" />
     <ClCompile Include="2164. 카드2.cpp" />
@@ -219,6 +223,7 @@
     <ClCompile Include="3036 링.cpp" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
+    <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="7568. 덩치.cpp" />
     <ClCompile Include="9375. 패션왕 신해빈.cpp" />
     <ClCompile Include="9461. 파도반 수열.cpp" />
