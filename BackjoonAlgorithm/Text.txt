@@ -5,6 +5,9 @@ using namespace std;
 #ifdef DEBUG
 #include <chrono>
 #include "Utility.h"
+
+chrono::system_clock::time_point Start;
+chrono::nanoseconds Time;
 #endif
 
 

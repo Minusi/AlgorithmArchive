@@ -198,7 +198,13 @@
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="1427. 소트인사이드.cpp" />
     <ClCompile Include="1436. 영화감독 숌.cpp" />
+    <ClCompile Include="14888. 연산자 끼워넣기.cpp" />
+    <ClCompile Include="14889. 스타트와 링크.cpp" />
     <ClCompile Include="1541. 잃어버린 괄호.cpp" />
+    <ClCompile Include="15632. N과 M(4).cpp" />
+    <ClCompile Include="15649. N과 M(1).cpp" />
+    <ClCompile Include="15650. N과 M(2).cpp" />
+    <ClCompile Include="15651. N과 M%283%29.cpp" />
     <ClCompile Include="1676. 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="1904. 01타일.cpp" />
     <ClCompile Include="1931. 회의실배정.cpp" />
@@ -210,6 +216,7 @@
     <ClCompile Include="2217. 로프.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
+    <ClCompile Include="2580. 스도쿠.cpp" />
     <ClCompile Include="2581. 소수.cpp" />
     <ClCompile Include="2609. 최대공약수와 최소공배수.cpp" />
     <ClCompile Include="2630. 색종이 만들기.cpp" />
@@ -224,9 +231,11 @@
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
+    <ClCompile Include="6603. 로또.cpp" />
     <ClCompile Include="7568. 덩치.cpp" />
     <ClCompile Include="9375. 패션왕 신해빈.cpp" />
     <ClCompile Include="9461. 파도반 수열.cpp" />
+    <ClCompile Include="9663. N-Queen.cpp" />
     <ClCompile Include="Sources\baekjoon-1000.cpp" />
     <ClCompile Include="Sources\baekjoon-1018.cpp" />
     <ClCompile Include="Sources\baekjoon-1932.cpp" />
