@@ -10,6 +10,14 @@ using namespace std;
 
 
 
+/* 랜덤 라이브러리를 초기화하는 데 사용되는 플래그 */
+static bool bInitRand = false;
+
+
+
+
+
+
 /* 배열을 출력하는 함수입니다. */
 template<typename T>
 void Print(T* Array, unsigned int Start, unsigned int Size, unsigned int Line = 10)
@@ -32,7 +40,6 @@ void Print(T* Array, unsigned int Start, unsigned int Size, unsigned int Line = 
 
 
 
-static bool bInitRand = false;
 /* 단일 테스트데이터를 생성하는 함수입니다. */
 template<typename T>
 T GenerateSingleTestData(T Floor, T Ceil)
@@ -50,6 +57,34 @@ T GenerateSingleTestData(T Floor, T Ceil)
 	return Data;
 #endif // TEST
 }
+
+
+
+/* 원하는 수들 중에서 하나를 생성하는 이산적인 테스트데이터를 생성하는 함수입니다. */
+template<typename T>
+T GenerateDiscreteSingleTestData(const vector<T>& Elements)
+{
+#ifdef TEST
+	if (bInitRand == false)
+	{
+		srand((unsigned int)time(NULL));
+		bInitRand = true;
+	}
+
+
+	if (Elements.size() == 1)
+	{
+		return Elements[0];
+	}
+	else
+	{
+		size_t Index = rand() % Elements.size() - 1;
+		return Elements[Index];
+	}
+#endif // TEST
+}
+
+
 
 /* 테스트데이터를 생성하는 함수입니다. */
 template<typename T>
