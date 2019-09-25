@@ -40,6 +40,42 @@ void Print(T* Array, unsigned int Start, unsigned int Size, unsigned int Line = 
 
 
 
+template<typename T>
+void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, unsigned int RStart = 0, unsigned int CStart = 0)
+{
+#ifdef TEST
+	for (unsigned int i = RStart; i < RSize; ++i)
+	{
+		for (unsigned int j = CStart; j < CSize; ++j)
+		{
+			cout << Array[i][j];
+		}
+		cout << "\n";
+	}
+	cout << "\n";
+#endif // TEST
+}
+
+template<typename T>
+void Print3Dimen(T* Array, unsigned int HSize, unsigned int RSize, unsigned int CSize, unsigned int HStart = 0, unsigned int RStart = 0, unsigned int CStart = 0)
+{
+#ifdef TEST
+	for (unsigned int i = HStart; i < HSize; ++i)
+	{
+		for (unsigned int j = RStart; j < RSize; ++j)
+		{
+			for (unsigned int k = CStart; k < CSize; k++)
+			{
+				cout << Array[i][j][k];
+			}
+			cout << "\n";
+		}
+		cout << "\n";
+	}
+	cout << "\n";
+#endif // TEST
+}
+
 /* 단일 테스트데이터를 생성하는 함수입니다. */
 template<typename T>
 T GenerateSingleTestData(T Floor, T Ceil)
