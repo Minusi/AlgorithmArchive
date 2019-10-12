@@ -171,9 +171,14 @@
     </BuildLog>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BigInt.cpp" />
     <ClCompile Include="HeapsAlgorithm.cpp" />
+    <ClCompile Include="KaratsubaAlgorithm.cpp" />
     <ClCompile Include="NextPermutation.cpp" />
     <ClCompile Include="NQueens.cpp" />
+    <ClCompile Include="SieveOfEratosthenes.cpp" />
+    <ClCompile Include="SieveOfEuler.cpp" />
+    <ClCompile Include="SieveOfSundaram.cpp" />
     <ClCompile Include="SJTAlgorithm.cpp" />
     <ClCompile Include="Source\MiscAlgorithm.cpp" />
     <ClCompile Include="Source\Private\CountingCellsInBlob.cpp" />
@@ -181,6 +186,7 @@
     <ClCompile Include="Source\Public\RodCutting.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BigInt.h" />
     <ClInclude Include="Source\MiscAlgorithm.h" />
     <ClInclude Include="Source\Public\CountingCellsInBlob.h" />
     <ClInclude Include="Source\Public\ExecuteInterface.h" />

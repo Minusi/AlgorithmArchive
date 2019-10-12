@@ -41,7 +41,7 @@ void Print(T* Array, unsigned int Start, unsigned int Size, unsigned int Line = 
 
 
 template<typename T>
-void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, unsigned int RStart = 0, unsigned int CStart = 0)
+void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, bool bSpace = true, unsigned int RStart = 0, unsigned int CStart = 0)
 {
 #ifdef TEST
 	for (unsigned int i = RStart; i < RSize; ++i)
@@ -49,6 +49,8 @@ void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, unsigned int 
 		for (unsigned int j = CStart; j < CSize; ++j)
 		{
 			cout << Array[i][j];
+			if (bSpace)
+				cout << " ";
 		}
 		cout << "\n";
 	}
@@ -114,7 +116,7 @@ T GenerateDiscreteSingleTestData(const vector<T>& Elements)
 	}
 	else
 	{
-		size_t Index = rand() % Elements.size() - 1;
+		size_t Index = rand() % Elements.size();
 		return Elements[Index];
 	}
 #endif // TEST
