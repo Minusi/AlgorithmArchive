@@ -188,6 +188,7 @@
     <ClCompile Include="10814. 나이순 정렬.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
     <ClCompile Include="10828. 스택.cpp" />
+    <ClCompile Include="10830. 행렬 제곱.cpp" />
     <ClCompile Include="10844. 쉬운 계단 수.cpp" />
     <ClCompile Include="10845. 큐.cpp" />
     <ClCompile Include="1085. 직사각형에서 탈출.cpp" />
@@ -211,6 +212,7 @@
     <ClCompile Include="11659. 구간 합 구하기 4.cpp" />
     <ClCompile Include="1167. 트리의 지름.cpp" />
     <ClCompile Include="11725. 트리의 부모 찾기.cpp" />
+    <ClCompile Include="11726. 2xn 타일링.cpp" />
     <ClCompile Include="1181. 단어 정렬.cpp" />
     <ClCompile Include="1182. 부분수열의 합.cpp" />
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
@@ -225,6 +227,7 @@
     <ClCompile Include="1427. 소트인사이드.cpp" />
     <ClCompile Include="1436. 영화감독 숌.cpp" />
     <ClCompile Include="14500. 테트로미노.cpp" />
+    <ClCompile Include="14501. 퇴사.cpp" />
     <ClCompile Include="14502. 연구소.cpp" />
     <ClCompile Include="1463. 1로 만들기.cpp" />
     <ClCompile Include="14746. Cloest Pair.cpp" />
@@ -255,6 +258,7 @@
     <ClCompile Include="1780. 종이의 개수.cpp" />
     <ClCompile Include="1874. 스택 수열.cpp" />
     <ClCompile Include="1904. 01타일.cpp" />
+    <ClCompile Include="1912. 연속합.cpp" />
     <ClCompile Include="1927. 최소 힙.cpp" />
     <ClCompile Include="1929. 소수 구하기.cpp" />
     <ClCompile Include="1931. 회의실배정.cpp" />
@@ -269,12 +273,16 @@
     <ClCompile Include="2156. 포도주 시식.cpp" />
     <ClCompile Include="2164. 카드2.cpp" />
     <ClCompile Include="2178. 미로 탐색.cpp" />
+    <ClCompile Include="11053. 가장 긴 증가하는 부분 수열.cpp" />
+    <ClCompile Include="2193. 이친수.cpp" />
     <ClCompile Include="2206. 벽 부수고 이동하기.cpp" />
     <ClCompile Include="2217. 로프.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
+    <ClCompile Include="2309. 일곱 난쟁이.cpp" />
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
+    <ClCompile Include="2455. 지능형 기차.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
     <ClCompile Include="2580. 스도쿠.cpp" />
     <ClCompile Include="2581. 소수.cpp" />
@@ -288,6 +296,7 @@
     <ClCompile Include="2751. 수 정렬하기 2.cpp" />
     <ClCompile Include="2775. 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798. 블랙잭.cpp" />
+    <ClCompile Include="2839. 설탕 배달.cpp" />
     <ClCompile Include="2981. 검문.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
@@ -307,6 +316,7 @@
     <ClCompile Include="7576. 토마토.cpp" />
     <ClCompile Include="9012. 괄호.cpp" />
     <ClCompile Include="9020. 골드바흐의 추측.cpp" />
+    <ClCompile Include="9095. 1,2,3 더하기.cpp" />
     <ClCompile Include="9370. 미확인 도착지.cpp" />
     <ClCompile Include="9375. 패션왕 신해빈.cpp" />
     <ClCompile Include="9461. 파도반 수열.cpp" />
