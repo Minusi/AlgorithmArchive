@@ -178,6 +178,7 @@
   <ItemGroup>
     <ClCompile Include="1002. 터렛.cpp" />
     <ClCompile Include="1003. 피보나치 함수.cpp" />
+    <ClCompile Include="1011. Fly me to the Alpha Centauri.cpp" />
     <ClCompile Include="1012. 유기농 배추.cpp" />
     <ClCompile Include="1021. 회전하는 큐.cpp" />
     <ClCompile Include="10250. ACM 호텔.cpp" />
@@ -226,6 +227,7 @@
     <ClCompile Include="13344. 국제 체스대회.cpp" />
     <ClCompile Include="1427. 소트인사이드.cpp" />
     <ClCompile Include="1436. 영화감독 숌.cpp" />
+    <ClCompile Include="14499. 주사위 굴리기.cpp" />
     <ClCompile Include="14500. 테트로미노.cpp" />
     <ClCompile Include="14501. 퇴사.cpp" />
     <ClCompile Include="14502. 연구소.cpp" />
@@ -250,6 +252,7 @@
     <ClCompile Include="1655. 가운데를 말해요.cpp" />
     <ClCompile Include="1676. 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="1697. 숨바꼭질.cpp" />
+    <ClCompile Include="1712. 손익분기점.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1748. 수 이어 쓰기 1.cpp" />
@@ -280,9 +283,11 @@
     <ClCompile Include="2231. 분해합.cpp" />
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
+    <ClCompile Include="2292. 벌집.cpp" />
     <ClCompile Include="2309. 일곱 난쟁이.cpp" />
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
     <ClCompile Include="2455. 지능형 기차.cpp" />
+    <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
     <ClCompile Include="2580. 스도쿠.cpp" />
     <ClCompile Include="2581. 소수.cpp" />
@@ -297,6 +302,7 @@
     <ClCompile Include="2775. 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798. 블랙잭.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
+    <ClCompile Include="2869. 달팽이는 올라가고 싶다.cpp" />
     <ClCompile Include="2981. 검문.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
@@ -309,6 +315,7 @@
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
+    <ClCompile Include="6064. 카잉 달력.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
     <ClCompile Include="6603. 로또.cpp" />
     <ClCompile Include="7568. 덩치.cpp" />
