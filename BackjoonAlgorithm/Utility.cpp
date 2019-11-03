@@ -29,3 +29,16 @@ void GenerateTestString(unsigned int NumData, unsigned int MinLength, unsigned i
 	}
 #endif // TEST
 }
+
+std::string GenerateSingleTestString(unsigned int MinLength, unsigned int MaxLength)
+{
+	if (MinLength > MaxLength)
+		return string();
+
+	int Length = rand() % (MaxLength - MinLength + 1) + MinLength;
+	string Result;
+	for (unsigned int i = 0; i < Length; ++i)
+		Result += GenerateSingleTestData<char>('a', 'z');
+
+	return Result;
+}

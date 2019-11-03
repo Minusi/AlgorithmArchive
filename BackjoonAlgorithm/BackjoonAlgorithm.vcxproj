@@ -184,7 +184,10 @@
     <ClCompile Include="10250. ACM 호텔.cpp" />
     <ClCompile Include="1037. 약수.cpp" />
     <ClCompile Include="10448. 유레카 이론.cpp" />
+    <ClCompile Include="10527. Judging Troubles.cpp" />
     <ClCompile Include="1065. 한수.cpp" />
+    <ClCompile Include="1072. 게임.cpp" />
+    <ClCompile Include="1074. Z.cpp" />
     <ClCompile Include="10773. 제로.cpp" />
     <ClCompile Include="10814. 나이순 정렬.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
@@ -194,6 +197,8 @@
     <ClCompile Include="10845. 큐.cpp" />
     <ClCompile Include="1085. 직사각형에서 탈출.cpp" />
     <ClCompile Include="10866. 덱..cpp" />
+    <ClCompile Include="10871. X보다 작은 수.cpp" />
+    <ClCompile Include="10872. 팩토리얼.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
     <ClCompile Include="11050. 이항 계수 1.cpp" />
@@ -204,6 +209,7 @@
     <ClCompile Include="11279. 최대 힙.cpp" />
     <ClCompile Include="11286. 절대값 힙.cpp" />
     <ClCompile Include="11399. ATM.cpp" />
+    <ClCompile Include="11403. 경로 찾기.cpp" />
     <ClCompile Include="1149. RGB거리.cpp" />
     <ClCompile Include="11505. 구간 곱 구하기.cpp" />
     <ClCompile Include="1152. 단어의 개수.cpp" />
@@ -216,9 +222,11 @@
     <ClCompile Include="11726. 2xn 타일링.cpp" />
     <ClCompile Include="1181. 단어 정렬.cpp" />
     <ClCompile Include="1182. 부분수열의 합.cpp" />
+    <ClCompile Include="1184. 귀농.cpp" />
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
+    <ClCompile Include="12865. 평범한 배낭.cpp" />
     <ClCompile Include="13325. 이진 트리.cpp" />
     <ClCompile Include="13329. Meteor Shower.cpp" />
     <ClCompile Include="13332. Project Team.cpp" />
@@ -233,6 +241,7 @@
     <ClCompile Include="14502. 연구소.cpp" />
     <ClCompile Include="1463. 1로 만들기.cpp" />
     <ClCompile Include="14746. Cloest Pair.cpp" />
+    <ClCompile Include="1475. 방 번호.cpp" />
     <ClCompile Include="14753. MultiMax.cpp" />
     <ClCompile Include="14754. Pizza Boxes.cpp" />
     <ClCompile Include="14888. 연산자 끼워넣기.cpp" />
@@ -257,11 +266,13 @@
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1748. 수 이어 쓰기 1.cpp" />
     <ClCompile Include="1753. 최단경로.cpp" />
+    <ClCompile Include="1764. 듣보잡.cpp" />
     <ClCompile Include="1766. 문제집.cpp" />
     <ClCompile Include="1780. 종이의 개수.cpp" />
     <ClCompile Include="1874. 스택 수열.cpp" />
     <ClCompile Include="1904. 01타일.cpp" />
     <ClCompile Include="1912. 연속합.cpp" />
+    <ClCompile Include="1924. 2007년.cpp" />
     <ClCompile Include="1927. 최소 힙.cpp" />
     <ClCompile Include="1929. 소수 구하기.cpp" />
     <ClCompile Include="1931. 회의실배정.cpp" />
@@ -271,6 +282,7 @@
     <ClCompile Include="1991. 트리 순회.cpp" />
     <ClCompile Include="1992. 쿼드트리.cpp" />
     <ClCompile Include="2004. 조합 0의 개수.cpp" />
+    <ClCompile Include="2042. 구간 합 구하기.cpp" />
     <ClCompile Include="2108. 통계학.cpp" />
     <ClCompile Include="2150. Strongly Connected Component.cpp" />
     <ClCompile Include="2156. 포도주 시식.cpp" />
@@ -288,6 +300,7 @@
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
     <ClCompile Include="2455. 지능형 기차.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
+    <ClCompile Include="2557. Hello World.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
     <ClCompile Include="2580. 스도쿠.cpp" />
     <ClCompile Include="2581. 소수.cpp" />
@@ -303,6 +316,7 @@
     <ClCompile Include="2798. 블랙잭.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
     <ClCompile Include="2869. 달팽이는 올라가고 싶다.cpp" />
+    <ClCompile Include="2935. 소음.cpp" />
     <ClCompile Include="2981. 검문.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
@@ -321,6 +335,7 @@
     <ClCompile Include="7568. 덩치.cpp" />
     <ClCompile Include="7569. 토마토.cpp" />
     <ClCompile Include="7576. 토마토.cpp" />
+    <ClCompile Include="8979. 올림픽.cpp" />
     <ClCompile Include="9012. 괄호.cpp" />
     <ClCompile Include="9020. 골드바흐의 추측.cpp" />
     <ClCompile Include="9095. 1,2,3 더하기.cpp" />
@@ -328,6 +343,7 @@
     <ClCompile Include="9375. 패션왕 신해빈.cpp" />
     <ClCompile Include="9461. 파도반 수열.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
+    <ClCompile Include="A-Star.cpp" />
     <ClCompile Include="PA.cpp" />
     <ClCompile Include="PB.cpp" />
     <ClCompile Include="PC.cpp" />

@@ -147,3 +147,5 @@ void GenerateTestData(unsigned int NumData, T Floor, T Ceil, vector<T>& Output)
 }
 
 void GenerateTestString(unsigned int NumData, unsigned int MinLength, unsigned int MaxLength, vector<string>& Output);
+
+std::string GenerateSingleTestString(unsigned int MinLength, unsigned int MaxLength);
