@@ -1,7 +1,7 @@
 ﻿//#include <iostream>
 //#include <string>
 //#include <vector>
-//#include <stack>
+//#include <vector>
 //using namespace std;
 //
 ////#define DEBUG
@@ -16,7 +16,7 @@
 //
 //
 //template<typename T>
-//void interprete(string Command, stack<T>& Stack)
+//void interprete(string Command, vector<T>& Stack)
 //{
 //	size_t Start = 0;
 //	size_t End = Command.find_first_of(' ', Start);
@@ -89,7 +89,7 @@
 //	cin.ignore();
 //	
 //	
-//	stack<int> Stack;
+//	vector<int> Stack;
 //	string Buffer;
 //	for (int i = 0; i < N; ++i)
 //	{

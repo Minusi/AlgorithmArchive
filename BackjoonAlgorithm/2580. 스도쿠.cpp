@@ -173,3 +173,102 @@
 //
 //	return 0;
 //}
+
+
+// 이게 정답
+//#include <iostream>
+//#include <algorithm>
+//#include <set>
+//#include <vector>
+//#include <utility>
+//using namespace std;
+//
+////#define DEBUG
+//#ifdef DEBUG
+//#include <chrono>
+//#include "Utility.h"
+//
+//chrono::system_clock::time_point Start;
+//chrono::nanoseconds Time;
+//#endif
+//
+//
+//bool CheckRow[9][10] = { false, };
+//bool CheckCol[9][10] = { false, };
+//bool Check3x3[9][10] = { false, };
+//
+//bool SolveSudoku(int(&Sudoku)[9][9], vector<pair<int,int>>& Blanks)
+//{
+//	if (Blanks.empty())
+//		return true;
+//	
+//	pair<int, int> Blank = Blanks.back();
+//
+//	int Row = Blank.first;
+//	int Col = Blank.second;
+//	int Box = 3 * (Row / 3) + (Col / 3);
+//
+//	bool bSuccess = false;
+//	for (int i = 1; i <= 9; ++i)
+//	{
+//		if (CheckRow[Row][i] == false && CheckCol[Col][i] == false && Check3x3[Box][i] == false)
+//		{
+//			//cout << "Row : " << Row << ", Col : " << Col << ", Value : " << i << "\n";
+//			CheckRow[Row][i] = true;
+//			CheckCol[Col][i] = true;
+//			Check3x3[Box][i] = true;
+//			Sudoku[Row][Col] = i;
+//			Blanks.pop_back();
+//
+//			bSuccess = SolveSudoku(Sudoku, Blanks);
+//			if (bSuccess == true)
+//				return true;
+//			Blanks.push_back({ Row, Col });
+//			CheckRow[Row][i] = false;
+//			CheckCol[Col][i] = false;
+//			Check3x3[Box][i] = false;
+//			Sudoku[Row][Col] = 0;
+//		}
+//	}
+//
+//	return bSuccess;
+//}
+//
+//int main()
+//{
+//	ios::sync_with_stdio(false);
+//	cin.tie(NULL);
+//
+//	int Sudoku[9][9];
+//	vector< pair<int, int>> Blanks;
+//	for (int i = 0; i < 9; i++)
+//	{
+//		for (int j = 0; j < 9; j++)
+//		{
+//			cin >> Sudoku[i][j];
+//			if (Sudoku[i][j] != 0)
+//			{
+//				CheckRow[i][Sudoku[i][j]] = true;
+//				CheckCol[j][Sudoku[i][j]] = true;
+//				Check3x3[3 * (i / 3) + (j / 3)][Sudoku[i][j]] = true;
+//			}
+//			else
+//				Blanks.emplace_back(i, j);
+//
+//		}
+//	}
+//
+//	reverse(Blanks.begin(), Blanks.end());
+//	SolveSudoku(Sudoku, Blanks);
+//	for (int i = 0; i < 9; ++i)
+//	{
+//		for (int j = 0; j < 9; j++)
+//		{
+//			cout << Sudoku[i][j] << " ";
+//		}
+//		cout << "\n";
+//	}
+//	
+//
+//	return 0;
+//}

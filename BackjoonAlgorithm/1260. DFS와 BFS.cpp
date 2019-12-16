@@ -1,7 +1,7 @@
 ﻿//#include <iostream>
 //#include <cstring>
 //#include <queue>
-//#include <stack>
+//#include <vector>
 //using namespace std;
 //
 ////#define DEBUG
@@ -17,7 +17,7 @@
 //
 //void Dfs(const bool(&Graph)[1001][1001], bool(&Visit)[1001], int N, int Start)
 //{
-//	stack<int> Stack;
+//	vector<int> Stack;
 //	Stack.push(Start);
 //
 //	int Top;

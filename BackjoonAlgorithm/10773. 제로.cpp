@@ -1,5 +1,5 @@
 ﻿//#include <iostream>
-//#include <stack>
+//#include <vector>
 //using namespace std;
 //
 ////#define DEBUG
@@ -26,7 +26,7 @@
 //#endif // DEBUG
 //
 //
-//	stack<int> Statement;
+//	vector<int> Statement;
 //	int Value;
 //	for (int i = 0; i < K; ++i)
 //	{

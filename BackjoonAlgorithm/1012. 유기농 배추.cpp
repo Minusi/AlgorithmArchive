@@ -1,5 +1,5 @@
 ﻿//#include <iostream>
-//#include <stack>
+//#include <vector>
 //#include <vector>
 //#include <utility>
 //using namespace std;
@@ -17,7 +17,7 @@
 //void PutWorm(bool(&Farm)[50][50], bool(&Visit)[50][50], pair<int, int> Size, pair<int,int> Pos)
 //{
 //	const static pair<int, int> Dir[4] = { {0,1}, {1,0}, {0,-1}, {-1,0} };
-//	stack<pair<int, int>> Stack;
+//	vector<pair<int, int>> Stack;
 //	Stack.push(Pos);
 //	Visit[Pos.first][Pos.second] = true;
 //
