@@ -257,6 +257,7 @@
     <ClCompile Include="14888. 연산자 끼워넣기.cpp" />
     <ClCompile Include="14889. 스타트와 링크.cpp" />
     <ClCompile Include="14891. 톱니바퀴.cpp" />
+    <ClCompile Include="1500. 최대 곱.cpp" />
     <ClCompile Include="1504. 특정한 최단 경로.cpp" />
     <ClCompile Include="1517. 버블 소트.cpp" />
     <ClCompile Include="1541. 잃어버린 괄호.cpp" />
@@ -349,6 +350,7 @@
     <ClCompile Include="4949. 균형잡힌 세상.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
+    <ClCompile Include="5624. 좋은 수.cpp" />
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
     <ClCompile Include="6064. 카잉 달력.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
@@ -366,6 +368,7 @@
     <ClCompile Include="9375. 패션왕 신해빈.cpp" />
     <ClCompile Include="9461. 파도반 수열.cpp" />
     <ClCompile Include="9498. 시험 성적.cpp" />
+    <ClCompile Include="9506. 약수들의 합.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
     <ClCompile Include="A-Star.cpp" />
     <ClCompile Include="PA.cpp" />
