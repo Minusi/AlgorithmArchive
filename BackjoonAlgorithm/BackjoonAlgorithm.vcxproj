@@ -237,6 +237,7 @@
     <ClCompile Include="1184. 귀농.cpp" />
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
+    <ClCompile Include="1222. 홍준 프로그래밍 대회.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
     <ClCompile Include="12865. 평범한 배낭.cpp" />
     <ClCompile Include="1297. TV 크기.cpp" />
@@ -288,6 +289,7 @@
     <ClCompile Include="1766. 문제집.cpp" />
     <ClCompile Include="1780. 종이의 개수.cpp" />
     <ClCompile Include="1788. 피보나치 수의 확장.cpp" />
+    <ClCompile Include="1789. 수들의 합.cpp" />
     <ClCompile Include="1834. 나머지와 몫이 같은 수.cpp" />
     <ClCompile Include="1874. 스택 수열.cpp" />
     <ClCompile Include="1904. 01타일.cpp" />
@@ -324,6 +326,7 @@
     <ClCompile Include="2455. 지능형 기차.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
+    <ClCompile Include="2577. 숫자의 개수.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
     <ClCompile Include="2580. 스도쿠.cpp" />
     <ClCompile Include="2581. 소수.cpp" />
@@ -345,6 +348,7 @@
     <ClCompile Include="2935. 소음.cpp" />
     <ClCompile Include="2965. 캥거루 세마리.cpp" />
     <ClCompile Include="2981. 검문.cpp" />
+    <ClCompile Include="2986. 파스칼.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
     <ClCompile Include="3053. 택시 기하학.cpp" />

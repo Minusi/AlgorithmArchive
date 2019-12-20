@@ -1,5 +1,4 @@
-﻿//#include <iostream>
-//#include <algorithm>
+//#include <iostream>
 //using namespace std;
 //
 ////#define DEBUG
@@ -18,26 +17,20 @@
 //	ios::sync_with_stdio(false);
 //	cin.tie(NULL);
 //
-//	int N;
+//	long long N;
 //	cin >> N;
-//	
-//	int DP[50001];
-//	
-//	for (int i = 0; i <= N; ++i)
-//		DP[i] = i;
 //
-//	for (int i = 2; i <= N; ++i)
+//	long long Sum;
+//	for (int i = 1; ; ++i)
 //	{
-//		for (int j = 2; j <= i; ++j)
+//		Sum = (i * ((long long)i + 1)) / 2;
+//		if (Sum > N)
 //		{
-//			if (j * j > i)
-//				break;
-//
-//			DP[i] = min(DP[i], DP[i - (j*j)] + 1);
+//			cout << i-1 << "\n";
+//			break;
 //		}
 //	}
 //
-//	cout << DP[N] << "\n";
-//
 //	return 0;
 //}
+// 
