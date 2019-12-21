@@ -207,6 +207,7 @@
     <ClCompile Include="10872. 팩토리얼.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
+    <ClCompile Include="11048. 이동하기.cpp" />
     <ClCompile Include="1105.팔.cpp" />
     <ClCompile Include="11050. 이항 계수 1.cpp" />
     <ClCompile Include="11051. 이항 계수 2.cpp" />
@@ -232,6 +233,7 @@
     <ClCompile Include="11724. 연결 요소의 개수.cpp" />
     <ClCompile Include="11725. 트리의 부모 찾기.cpp" />
     <ClCompile Include="11726. 2xn 타일링.cpp" />
+    <ClCompile Include="11727. 2xn 타일링 2.cpp" />
     <ClCompile Include="11729. 하노이 탑 이동 순서.cpp" />
     <ClCompile Include="1181. 단어 정렬.cpp" />
     <ClCompile Include="1182. 부분수열의 합.cpp" />
@@ -375,6 +377,7 @@
     <ClCompile Include="8979. 올림픽.cpp" />
     <ClCompile Include="9012. 괄호.cpp" />
     <ClCompile Include="9020. 골드바흐의 추측.cpp" />
+    <ClCompile Include="9084. 동전.cpp" />
     <ClCompile Include="9095. 1,2,3 더하기.cpp" />
     <ClCompile Include="9322. 철벽 보안 알고리즘.cpp" />
     <ClCompile Include="9370. 미확인 도착지.cpp" />
@@ -384,14 +387,12 @@
     <ClCompile Include="9506. 약수들의 합.cpp" />
     <ClCompile Include="9519. 졸려.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
-    <ClCompile Include="A-Star.cpp" />
     <ClCompile Include="PA.cpp" />
     <ClCompile Include="PB.cpp" />
     <ClCompile Include="PC.cpp" />
     <ClCompile Include="PH.cpp" />
     <ClCompile Include="PI.cpp" />
     <ClCompile Include="PL.cpp" />
-    <ClCompile Include="Problem J. Sliding Blocks.cpp" />
     <ClCompile Include="Sources\baekjoon-1000.cpp" />
     <ClCompile Include="Sources\baekjoon-1018.cpp" />
     <ClCompile Include="Sources\baekjoon-1932.cpp" />
