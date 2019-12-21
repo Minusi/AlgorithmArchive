@@ -222,6 +222,7 @@
     <ClCompile Include="1149. RGB거리.cpp" />
     <ClCompile Include="11505. 구간 곱 구하기.cpp" />
     <ClCompile Include="1152. 단어의 개수.cpp" />
+    <ClCompile Include="1159. 농구 경기.cpp" />
     <ClCompile Include="11650. 좌표 정렬하기.cpp" />
     <ClCompile Include="11651. 좌표 정렬하기 2.cpp" />
     <ClCompile Include="11653. 소인수분해.cpp" />
@@ -341,6 +342,7 @@
     <ClCompile Include="2751. 수 정렬하기 2.cpp" />
     <ClCompile Include="2775. 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798. 블랙잭.cpp" />
+    <ClCompile Include="2810. 컵홀더.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
     <ClCompile Include="2858. 기숙사 바닥.cpp" />
     <ClCompile Include="2869. 달팽이는 올라가고 싶다.cpp" />
@@ -349,6 +351,7 @@
     <ClCompile Include="2965. 캥거루 세마리.cpp" />
     <ClCompile Include="2981. 검문.cpp" />
     <ClCompile Include="2986. 파스칼.cpp" />
+    <ClCompile Include="3005. 크로스워드 퍼즐 쳐다보기.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
@@ -379,6 +382,7 @@
     <ClCompile Include="9461. 파도반 수열.cpp" />
     <ClCompile Include="9498. 시험 성적.cpp" />
     <ClCompile Include="9506. 약수들의 합.cpp" />
+    <ClCompile Include="9519. 졸려.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
     <ClCompile Include="A-Star.cpp" />
     <ClCompile Include="PA.cpp" />
