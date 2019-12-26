@@ -51,6 +51,8 @@ void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, bool bSpace =
 			cout << Array[i][j];
 			if (bSpace)
 				cout << " ";
+			else
+				cout << "\t";
 		}
 		cout << "\n";
 	}
