@@ -244,6 +244,7 @@
     <ClCompile Include="1260. DFS와 BFS.cpp" />
     <ClCompile Include="12865. 평범한 배낭.cpp" />
     <ClCompile Include="1297. TV 크기.cpp" />
+    <ClCompile Include="1309. 동물원.cpp" />
     <ClCompile Include="13325. 이진 트리.cpp" />
     <ClCompile Include="13329. Meteor Shower.cpp" />
     <ClCompile Include="13332. Project Team.cpp" />
@@ -317,6 +318,7 @@
     <ClCompile Include="2156. 포도주 시식.cpp" />
     <ClCompile Include="2163. 초콜릿 자르기.cpp" />
     <ClCompile Include="2164. 카드2.cpp" />
+    <ClCompile Include="2167. 2차원 배열의 합.cpp" />
     <ClCompile Include="2178. 미로 탐색.cpp" />
     <ClCompile Include="11053. 가장 긴 증가하는 부분 수열.cpp" />
     <ClCompile Include="2193. 이친수.cpp" />
@@ -330,7 +332,6 @@
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
     <ClCompile Include="2447. 별 찍기 - 10.cpp" />
     <ClCompile Include="2455. 지능형 기차.cpp" />
-    <ClCompile Include="2477. 참외밭.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
     <ClCompile Include="2577. 숫자의 개수.cpp" />
