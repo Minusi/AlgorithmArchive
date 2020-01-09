@@ -306,6 +306,7 @@
     <ClCompile Include="1929. 소수 구하기.cpp" />
     <ClCompile Include="1931. 회의실배정.cpp" />
     <ClCompile Include="1932. 정수 삼각형.cpp" />
+    <ClCompile Include="1965. 상자넣기.cpp" />
     <ClCompile Include="1966. 프린터 큐.cpp" />
     <ClCompile Include="1977. 완전제곱수.cpp" />
     <ClCompile Include="1978. 소수 찾기.cpp" />
@@ -325,6 +326,7 @@
     <ClCompile Include="2193. 이친수.cpp" />
     <ClCompile Include="2206. 벽 부수고 이동하기.cpp" />
     <ClCompile Include="2217. 로프.cpp" />
+    <ClCompile Include="2225. 합분해.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
@@ -367,14 +369,12 @@
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
-    <ClCompile Include="4355. 서로소.cpp" />
     <ClCompile Include="4948. 베르트랑 공준.cpp" />
     <ClCompile Include="4949. 균형잡힌 세상.cpp" />
     <ClCompile Include="5032. 탄산 음료.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5612. 터널의 입구와 출구.cpp" />
-    <ClCompile Include="5624. 좋은 수.cpp" />
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
     <ClCompile Include="6064. 카잉 달력.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
