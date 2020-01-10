@@ -212,6 +212,7 @@
     <ClCompile Include="11050. 이항 계수 1.cpp" />
     <ClCompile Include="11051. 이항 계수 2.cpp" />
     <ClCompile Include="11052. 카드 구매하기.cpp" />
+    <ClCompile Include="11057. 오르막 수.cpp" />
     <ClCompile Include="11066. 파일 합치기.cpp" />
     <ClCompile Include="1107. 리모컨.cpp" />
     <ClCompile Include="1110. 더하기 사이클.cpp" />
@@ -332,6 +333,7 @@
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
     <ClCompile Include="2292. 벌집.cpp" />
+    <ClCompile Include="2302. 극장 좌석.cpp" />
     <ClCompile Include="2309. 일곱 난쟁이.cpp" />
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
     <ClCompile Include="2447. 별 찍기 - 10.cpp" />
@@ -345,6 +347,7 @@
     <ClCompile Include="2583. 영역 구하기.cpp" />
     <ClCompile Include="2606. 바이러스.cpp" />
     <ClCompile Include="2609. 최대공약수와 최소공배수.cpp" />
+    <ClCompile Include="2616. 소형기관차.cpp" />
     <ClCompile Include="2630. 색종이 만들기.cpp" />
     <ClCompile Include="2667. 단지번호붙이기.cpp" />
     <ClCompile Include="2698. 인접한 비트의 개수.cpp" />
