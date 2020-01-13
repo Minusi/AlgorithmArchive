@@ -205,6 +205,7 @@
     <ClCompile Include="10870. 피보나치 수 5.cpp" />
     <ClCompile Include="10871. X보다 작은 수.cpp" />
     <ClCompile Include="10872. 팩토리얼.cpp" />
+    <ClCompile Include="10886. 0 = not cute _ 1 = cute.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
     <ClCompile Include="11048. 이동하기.cpp" />
@@ -290,6 +291,7 @@
     <ClCompile Include="1697. 숨바꼭질.cpp" />
     <ClCompile Include="1712. 손익분기점.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
+    <ClCompile Include="1722. 순열의 순서.cpp" />
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1736. 쓰레기 치우기.cpp" />
     <ClCompile Include="1748. 수 이어 쓰기 1.cpp" />
@@ -349,6 +351,7 @@
     <ClCompile Include="2609. 최대공약수와 최소공배수.cpp" />
     <ClCompile Include="2616. 소형기관차.cpp" />
     <ClCompile Include="2630. 색종이 만들기.cpp" />
+    <ClCompile Include="2631. 줄세우기.cpp" />
     <ClCompile Include="2667. 단지번호붙이기.cpp" />
     <ClCompile Include="2698. 인접한 비트의 개수.cpp" />
     <ClCompile Include="2740. 행렬 곱셈.cpp" />
@@ -403,6 +406,7 @@
     <ClCompile Include="9461. 파도반 수열.cpp" />
     <ClCompile Include="9498. 시험 성적.cpp" />
     <ClCompile Include="9506. 약수들의 합.cpp" />
+    <ClCompile Include="9507. Generations of Tribbles.cpp" />
     <ClCompile Include="9519. 졸려.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
     <ClCompile Include="PA.cpp" />
