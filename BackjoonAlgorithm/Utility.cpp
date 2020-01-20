@@ -4,7 +4,6 @@
 
 void GenerateTestString(unsigned int NumData, unsigned int MinLength, unsigned int MaxLength, vector<string>& Output)
 {
-#ifdef TEST
 	if (bInitRand == false)
 	{
 		srand((unsigned int)time(NULL));
@@ -27,7 +26,6 @@ void GenerateTestString(unsigned int NumData, unsigned int MinLength, unsigned i
 		Output.push_back(SingleData);
 		SingleData.clear();
 	}
-#endif // TEST
 }
 
 std::string GenerateSingleTestString(unsigned int MinLength, unsigned int MaxLength)

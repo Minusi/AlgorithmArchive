@@ -379,6 +379,7 @@
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
+    <ClCompile Include="4673. 셀프 넘버.cpp" />
     <ClCompile Include="4948. 베르트랑 공준.cpp" />
     <ClCompile Include="4949. 균형잡힌 세상.cpp" />
     <ClCompile Include="5032. 탄산 음료.cpp" />
