@@ -265,6 +265,7 @@
     <ClCompile Include="13910. 개업.cpp" />
     <ClCompile Include="1427. 소트인사이드.cpp" />
     <ClCompile Include="1436. 영화감독 숌.cpp" />
+    <ClCompile Include="1448. 삼각형 만들기.cpp" />
     <ClCompile Include="14499. 주사위 굴리기.cpp" />
     <ClCompile Include="14500. 테트로미노.cpp" />
     <ClCompile Include="14501. 퇴사.cpp" />
@@ -387,6 +388,7 @@
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
+    <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
@@ -398,6 +400,7 @@
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5612. 터널의 입구와 출구.cpp" />
     <ClCompile Include="5622. 다이얼.c" />
+    <ClCompile Include="5623. 수열의 합.cpp" />
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
     <ClCompile Include="6064. 카잉 달력.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
