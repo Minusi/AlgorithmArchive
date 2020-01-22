@@ -284,6 +284,7 @@
     <ClCompile Include="1504. 특정한 최단 경로.cpp" />
     <ClCompile Include="1517. 버블 소트.cpp" />
     <ClCompile Include="1541. 잃어버린 괄호.cpp" />
+    <ClCompile Include="1546 평균.c" />
     <ClCompile Include="1551. 수열의 변화.cpp" />
     <ClCompile Include="15596. 정수 N개의 합.cpp" />
     <ClCompile Include="1562. 계단 수.cpp" />
@@ -397,6 +398,7 @@
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
+    <ClCompile Include="4344. 평균은 넘겠지.cpp" />
     <ClCompile Include="4673. 셀프 넘버.cpp" />
     <ClCompile Include="4948. 베르트랑 공준.cpp" />
     <ClCompile Include="4949. 균형잡힌 세상.cpp" />
@@ -419,6 +421,7 @@
     <ClCompile Include="7579. 앱.cpp" />
     <ClCompile Include="8027. Antiprime Numbers.cpp" />
     <ClCompile Include="8320. 직사각형을 만드는 방법.cpp" />
+    <ClCompile Include="8958. OX퀴즈.c" />
     <ClCompile Include="8979. 올림픽.cpp" />
     <ClCompile Include="9012. 괄호.cpp" />
     <ClCompile Include="9020. 골드바흐의 추측.cpp" />
