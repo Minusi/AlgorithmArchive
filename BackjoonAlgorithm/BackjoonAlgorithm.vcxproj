@@ -197,6 +197,7 @@
     <ClCompile Include="10809. 알파벳 찾기.c" />
     <ClCompile Include="10814. 나이순 정렬.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
+    <ClCompile Include="10818. 최소, 최대.c" />
     <ClCompile Include="10828. 스택.cpp" />
     <ClCompile Include="10830. 행렬 제곱.cpp" />
     <ClCompile Include="10844. 쉬운 계단 수.cpp" />
@@ -216,6 +217,7 @@
     <ClCompile Include="11052. 카드 구매하기.cpp" />
     <ClCompile Include="11054. 가장 긴 바이토닉 부분 수열.cpp" />
     <ClCompile Include="11057. 오르막 수.cpp" />
+    <ClCompile Include="11058. 크리보드.cpp" />
     <ClCompile Include="11066. 파일 합치기.cpp" />
     <ClCompile Include="1107. 리모컨.cpp" />
     <ClCompile Include="1110. 더하기 사이클.cpp" />
@@ -342,6 +344,7 @@
     <ClCompile Include="2217. 로프.cpp" />
     <ClCompile Include="2225. 합분해.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
+    <ClCompile Include="2240. 자두나무.cpp" />
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
     <ClCompile Include="2292. 벌집.cpp" />
@@ -353,6 +356,7 @@
     <ClCompile Include="2455. 지능형 기차.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
+    <ClCompile Include="2562. 최댓값.c" />
     <ClCompile Include="2565. 전깃줄.cpp" />
     <ClCompile Include="2577. 숫자의 개수.cpp" />
     <ClCompile Include="2579. 계단 오르기.cpp" />
@@ -387,6 +391,7 @@
     <ClCompile Include="3005. 크로스워드 퍼즐 쳐다보기.cpp" />
     <ClCompile Include="3009. 네 번째 점.cpp" />
     <ClCompile Include="3036 링.cpp" />
+    <ClCompile Include="3052. 나머지.c" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
@@ -398,6 +403,7 @@
     <ClCompile Include="5032. 탄산 음료.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
+    <ClCompile Include="5557. 1학년.cpp" />
     <ClCompile Include="5612. 터널의 입구와 출구.cpp" />
     <ClCompile Include="5622. 다이얼.c" />
     <ClCompile Include="5623. 수열의 합.cpp" />
