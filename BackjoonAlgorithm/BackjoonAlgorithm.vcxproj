@@ -346,6 +346,8 @@
     <ClCompile Include="2225. 합분해.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
     <ClCompile Include="2240. 자두나무.cpp" />
+    <ClCompile Include="2251. 물통%401.cpp" />
+    <ClCompile Include="2251. 물통.cpp" />
     <ClCompile Include="2252. 줄 세우기..cpp" />
     <ClCompile Include="2263. 트리의 순회.cpp" />
     <ClCompile Include="2292. 벌집.cpp" />
@@ -370,6 +372,7 @@
     <ClCompile Include="2630. 색종이 만들기.cpp" />
     <ClCompile Include="2631. 줄세우기.cpp" />
     <ClCompile Include="2667. 단지번호붙이기.cpp" />
+    <ClCompile Include="2668. 숫자고르기.cpp" />
     <ClCompile Include="2675. 문자열 반복.c" />
     <ClCompile Include="2698. 인접한 비트의 개수.cpp" />
     <ClCompile Include="2740. 행렬 곱셈.cpp" />
