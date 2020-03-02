@@ -51,6 +51,21 @@ void Print2Dimen(T* Array, unsigned int RSize, unsigned int CSize, bool bSpace =
 }
 
 template<typename T>
+void Print2Dimen(T* Array, unsigned int rStart, unsigned int rEnd, unsigned int cStart, unsigned int cEnd, int printWidth = 3)
+{
+	for (unsigned int i = rStart; i < rEnd; ++i)
+	{
+		for (unsigned int j = cStart; j < cEnd; ++j)
+		{
+			cout.width(printWidth);
+			cout << Array[i][j];
+		}
+		cout << "\n";
+	}
+	cout << "\n";
+}
+
+template<typename T>
 void Print3Dimen(T* Array, unsigned int HSize, unsigned int RSize, unsigned int CSize, unsigned int HStart = 0, unsigned int RStart = 0, unsigned int CStart = 0)
 {
 	for (unsigned int i = HStart; i < HSize; ++i)

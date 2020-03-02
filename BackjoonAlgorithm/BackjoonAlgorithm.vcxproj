@@ -177,6 +177,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1002. 터렛.cpp" />
+    <ClCompile Include="10026. 적록색약.cpp" />
     <ClCompile Include="1003. 피보나치 함수.cpp" />
     <ClCompile Include="1008. A_B.cpp" />
     <ClCompile Include="1011. Fly me to the Alpha Centauri.cpp" />
@@ -263,6 +264,7 @@
     <ClCompile Include="13335. 트럭.cpp" />
     <ClCompile Include="13344. 국제 체스대회.cpp" />
     <ClCompile Include="1339. 단어 수학.cpp" />
+    <ClCompile Include="1389. 케빈 베이컨의 6단계 법칙.cpp" />
     <ClCompile Include="13910. 개업%401.cpp" />
     <ClCompile Include="13910. 개업.cpp" />
     <ClCompile Include="1427. 소트인사이드.cpp" />
@@ -333,6 +335,7 @@
     <ClCompile Include="2010.플러그.cpp" />
     <ClCompile Include="2042. 구간 합 구하기.cpp" />
     <ClCompile Include="2108. 통계학.cpp" />
+    <ClCompile Include="2146. 다리 만들기.cpp" />
     <ClCompile Include="2150. Strongly Connected Component.cpp" />
     <ClCompile Include="2156. 포도주 시식.cpp" />
     <ClCompile Include="2163. 초콜릿 자르기.cpp" />
