@@ -1,9 +1,9 @@
 ﻿#include <iostream>
 using namespace std;
 
-#ifdef DEBUG
+#ifdef _DEBUG
 #include "Utility.h"
-#endif // DEBUG
+#endif // _DEBUG
 
 
 

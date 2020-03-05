@@ -294,6 +294,7 @@
     <ClCompile Include="15649. N과 M(1).cpp" />
     <ClCompile Include="15650. N과 M(2).cpp" />
     <ClCompile Include="15651. N과 M%283%29.cpp" />
+    <ClCompile Include="1613. 역사.cpp" />
     <ClCompile Include="16282. Black Chain.cpp" />
     <ClCompile Include="16283. Farm.cpp" />
     <ClCompile Include="16288. Passport Control.cpp" />
@@ -316,6 +317,16 @@
     <ClCompile Include="1788. 피보나치 수의 확장.cpp" />
     <ClCompile Include="1789. 수들의 합.cpp" />
     <ClCompile Include="18122. 색깔 하노이 탑.cpp" />
+    <ClCompile Include="18258. 큐 2%401.c" />
+    <ClCompile Include="18258. 큐 2%402.cpp" />
+    <ClCompile Include="18258. 큐 2%403.c" />
+    <ClCompile Include="18258. 큐 2.c">
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Release|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </ClCompile>
+    <ClCompile Include="18258. 큐%404.cpp" />
     <ClCompile Include="1834. 나머지와 몫이 같은 수.cpp" />
     <ClCompile Include="1874. 스택 수열.cpp" />
     <ClCompile Include="1904. 01타일.cpp" />
@@ -360,6 +371,7 @@
     <ClCompile Include="2386. 도비의 영어 공부.cpp" />
     <ClCompile Include="2447. 별 찍기 - 10.cpp" />
     <ClCompile Include="2455. 지능형 기차.cpp" />
+    <ClCompile Include="2468. 안전 영역.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
     <ClCompile Include="2562. 최댓값.c" />
@@ -455,7 +467,6 @@
     <ClCompile Include="Sources\baekjoon-1932.cpp" />
     <ClCompile Include="Utility.cpp" />
     <ClCompile Include="2750. 수 정렬하기.cpp" />
-    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sources\Essential.h" />
