@@ -179,10 +179,12 @@
     <ClCompile Include="1002. 터렛.cpp" />
     <ClCompile Include="10026. 적록색약.cpp" />
     <ClCompile Include="1003. 피보나치 함수.cpp" />
+    <ClCompile Include="10039. 평균 점수.cpp" />
     <ClCompile Include="1008. A_B.cpp" />
     <ClCompile Include="1011. Fly me to the Alpha Centauri.cpp" />
     <ClCompile Include="1012. 유기농 배추.cpp" />
     <ClCompile Include="1021. 회전하는 큐.cpp" />
+    <ClCompile Include="1022. 소용돌이 예쁘게 출력하기.cpp" />
     <ClCompile Include="10250. ACM 호텔.cpp" />
     <ClCompile Include="1027. 고층 건물.cpp" />
     <ClCompile Include="1037. 약수.cpp" />
@@ -267,6 +269,7 @@
     <ClCompile Include="13335. 트럭.cpp" />
     <ClCompile Include="13344. 국제 체스대회.cpp" />
     <ClCompile Include="1339. 단어 수학.cpp" />
+    <ClCompile Include="13460. 구슬 탈출 2.cpp" />
     <ClCompile Include="1389. 케빈 베이컨의 6단계 법칙.cpp" />
     <ClCompile Include="13910. 개업%401.cpp" />
     <ClCompile Include="13910. 개업.cpp" />
@@ -349,6 +352,7 @@
     <ClCompile Include="1992. 쿼드트리.cpp" />
     <ClCompile Include="2004. 조합 0의 개수.cpp" />
     <ClCompile Include="2010.플러그.cpp" />
+    <ClCompile Include="2033. 반올림.cpp" />
     <ClCompile Include="2042. 구간 합 구하기.cpp" />
     <ClCompile Include="2108. 통계학.cpp" />
     <ClCompile Include="2146. 다리 만들기.cpp" />
@@ -405,6 +409,7 @@
     <ClCompile Include="2798. 블랙잭.cpp" />
     <ClCompile Include="2810. 컵홀더.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
+    <ClCompile Include="2851. 슈퍼 마리오.cpp" />
     <ClCompile Include="2858. 기숙사 바닥.cpp" />
     <ClCompile Include="2869. 달팽이는 올라가고 싶다.cpp" />
     <ClCompile Include="2875. 대회 or 인턴%401.cpp" />
@@ -440,6 +445,7 @@
     <ClCompile Include="5623. 수열의 합.cpp" />
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
     <ClCompile Include="6064. 카잉 달력.cpp" />
+    <ClCompile Include="6087. 레이저 통신.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
     <ClCompile Include="6593. 상범 빌딩.cpp" />
     <ClCompile Include="6603. 로또.cpp" />
