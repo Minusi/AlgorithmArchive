@@ -214,6 +214,7 @@
     <ClCompile Include="10871. X보다 작은 수.cpp" />
     <ClCompile Include="10872. 팩토리얼.cpp" />
     <ClCompile Include="10886. 0 = not cute _ 1 = cute.cpp" />
+    <ClCompile Include="1094. 막대기.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
     <ClCompile Include="11048. 이동하기.cpp" />
@@ -292,6 +293,9 @@
     <ClCompile Include="1500. 최대 곱.cpp" />
     <ClCompile Include="1504. 특정한 최단 경로.cpp" />
     <ClCompile Include="1517. 버블 소트.cpp" />
+    <ClCompile Include="1526. 가장 큰 금민수%401.cpp" />
+    <ClCompile Include="1526. 가장 큰 금민수%402.cpp" />
+    <ClCompile Include="1526. 가장 큰 금민수.cpp" />
     <ClCompile Include="1541. 잃어버린 괄호.cpp" />
     <ClCompile Include="1546 평균.c" />
     <ClCompile Include="1551. 수열의 변화.cpp" />
@@ -427,6 +431,7 @@
     <ClCompile Include="3052. 나머지.c" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="3055. 탈출.cpp" />
+    <ClCompile Include="3190. 뱀.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
@@ -438,6 +443,7 @@
     <ClCompile Include="5032. 탄산 음료.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
+    <ClCompile Include="5532. 방학 숙제.cpp" />
     <ClCompile Include="5557. 1학년.cpp" />
     <ClCompile Include="5585. 거스름돈.cpp" />
     <ClCompile Include="5612. 터널의 입구와 출구.cpp" />
