@@ -317,6 +317,7 @@
     <ClCompile Include="1697. 숨바꼭질.cpp" />
     <ClCompile Include="1699. 제곱수의 합.cpp" />
     <ClCompile Include="1712. 손익분기점.cpp" />
+    <ClCompile Include="1713. 후보 추천하기.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1736. 쓰레기 치우기.cpp" />
@@ -431,7 +432,6 @@
     <ClCompile Include="3052. 나머지.c" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="3055. 탈출.cpp" />
-    <ClCompile Include="3190. 뱀.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
@@ -445,7 +445,9 @@
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5532. 방학 숙제.cpp" />
     <ClCompile Include="5557. 1학년.cpp" />
+    <ClCompile Include="5567. 결혼식.cpp" />
     <ClCompile Include="5585. 거스름돈.cpp" />
+    <ClCompile Include="5597. 과제 안 내신분.cpp" />
     <ClCompile Include="5612. 터널의 입구와 출구.cpp" />
     <ClCompile Include="5622. 다이얼.c" />
     <ClCompile Include="5623. 수열의 합.cpp" />
