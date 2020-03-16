@@ -237,6 +237,7 @@
     <ClCompile Include="1149. RGB거리.cpp" />
     <ClCompile Include="11505. 구간 곱 구하기.cpp" />
     <ClCompile Include="1152. 단어의 개수.cpp" />
+    <ClCompile Include="11559. Puyo Puyo.cpp" />
     <ClCompile Include="1157. 단어 공부.c" />
     <ClCompile Include="1159. 농구 경기.cpp" />
     <ClCompile Include="11650. 좌표 정렬하기.cpp" />
@@ -320,8 +321,8 @@
     <ClCompile Include="1712. 손익분기점.cpp" />
     <ClCompile Include="1713. 후보 추천하기.cpp" />
     <ClCompile Include="17135. 캐슬 디펜스.cpp" />
-    <ClCompile Include="17136. 색종이 붙이기.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
+    <ClCompile Include="17281. 야구.cpp" />
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1736. 쓰레기 치우기.cpp" />
     <ClCompile Include="1748. 수 이어 쓰기 1.cpp" />
@@ -438,6 +439,7 @@
     <ClCompile Include="3055. 탈출.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
+    <ClCompile Include="3954. Brainf__k 인터프리터.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
     <ClCompile Include="4344. 평균은 넘겠지.cpp" />
