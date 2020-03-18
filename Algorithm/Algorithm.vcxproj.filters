@@ -36,5 +36,8 @@
     <ClCompile Include="Sources\Algorithms\SJTAlgorithm.cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
+    <ClCompile Include="polynomial.cpp">
+      <Filter>Structure</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

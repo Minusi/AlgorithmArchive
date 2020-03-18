@@ -150,6 +150,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="polynomial.cpp" />
     <ClCompile Include="Sources\Algorithms\HeapsAlgorithm.cpp" />
     <ClCompile Include="Sources\Algorithms\KaratsubaAlgorithm.cpp" />
     <ClCompile Include="Sources\Algorithms\NextPermutation.cpp" />
