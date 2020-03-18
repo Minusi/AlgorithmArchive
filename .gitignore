@@ -330,12 +330,3 @@ ASALocalRun/
 .mfractor/
 
 
-
-# -----------------------------------------------------------
-
-
-
-# Visual studio Project files
-*.vcxproj.filters
-*.vcxproj
-*.sln
