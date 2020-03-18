@@ -308,10 +308,12 @@
     <ClCompile Include="15649. N과 M(1).cpp" />
     <ClCompile Include="15650. N과 M(2).cpp" />
     <ClCompile Include="15651. N과 M%283%29.cpp" />
+    <ClCompile Include="15654. N과 M (5)%401.cpp" />
+    <ClCompile Include="15654. N과 M (5).cpp" />
+    <ClCompile Include="15655. N과 M (6).cpp" />
     <ClCompile Include="1613. 역사.cpp" />
     <ClCompile Include="16234. 인구 이동%401.cpp" />
     <ClCompile Include="16234. 인구 이동.cpp" />
-    <ClCompile Include="16235. 나무 재테크.cpp" />
     <ClCompile Include="16282. Black Chain.cpp" />
     <ClCompile Include="16283. Farm.cpp" />
     <ClCompile Include="16288. Passport Control.cpp" />
@@ -362,6 +364,11 @@
     <ClCompile Include="1967. 트리의 지름.cpp" />
     <ClCompile Include="1977. 완전제곱수.cpp" />
     <ClCompile Include="1978. 소수 찾기.cpp" />
+    <ClCompile Include="1987. 알파벳%401.cpp" />
+    <ClCompile Include="1987. 알파벳%402.cpp" />
+    <ClCompile Include="1987. 알파벳%402_2.cpp" />
+    <ClCompile Include="1987. 알파벳%403.cpp" />
+    <ClCompile Include="1987. 알파벳.cpp" />
     <ClCompile Include="1991. 트리 순회.cpp" />
     <ClCompile Include="1992. 쿼드트리.cpp" />
     <ClCompile Include="16637. 괄호 추가하기.cpp" />
@@ -505,6 +512,7 @@
     <ClCompile Include="Sources\baekjoon-1932.cpp" />
     <ClCompile Include="Utility.cpp" />
     <ClCompile Include="2750. 수 정렬하기.cpp" />
+    <ClCompile Include="1987. 알파벳%402_1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sources\Essential.h" />
