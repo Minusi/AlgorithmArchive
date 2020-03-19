@@ -311,6 +311,9 @@
     <ClCompile Include="15654. N과 M (5)%401.cpp" />
     <ClCompile Include="15654. N과 M (5).cpp" />
     <ClCompile Include="15655. N과 M (6).cpp" />
+    <ClCompile Include="15656. N과 M (7).cpp" />
+    <ClCompile Include="15683. 감시.cpp" />
+    <ClCompile Include="15684. 사다리 조작.cpp" />
     <ClCompile Include="1613. 역사.cpp" />
     <ClCompile Include="16234. 인구 이동%401.cpp" />
     <ClCompile Include="16234. 인구 이동.cpp" />
