@@ -259,6 +259,7 @@
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="12100. 2048(Easy).cpp" />
+    <ClCompile Include="1219. 오민식의 고민.cpp" />
     <ClCompile Include="1222. 홍준 프로그래밍 대회.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
     <ClCompile Include="12865. 평범한 배낭%401.cpp" />
@@ -316,6 +317,8 @@
     <ClCompile Include="15657. N과 M (8).cpp" />
     <ClCompile Include="15663. N과 M %289%29.cpp" />
     <ClCompile Include="15663. N과 M (9)%401.cpp" />
+    <ClCompile Include="15665. N과 M (11).cpp" />
+    <ClCompile Include="15665. N과 M %2811%29%401.cpp" />
     <ClCompile Include="15683. 감시.cpp" />
     <ClCompile Include="15684. 사다리 조작.cpp" />
     <ClCompile Include="1613. 역사.cpp" />
@@ -511,6 +514,7 @@
     <ClCompile Include="9506. 약수들의 합.cpp" />
     <ClCompile Include="9507. Generations of Tribbles.cpp" />
     <ClCompile Include="9519. 졸려.cpp" />
+    <ClCompile Include="9521. 색칠 공부.cpp" />
     <ClCompile Include="9663. N-Queen.cpp" />
     <ClCompile Include="PA.cpp" />
     <ClCompile Include="PB.cpp" />
