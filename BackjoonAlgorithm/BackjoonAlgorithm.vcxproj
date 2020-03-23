@@ -257,9 +257,9 @@
     <ClCompile Include="1182. 부분수열의 합.cpp" />
     <ClCompile Include="1184. 귀농.cpp" />
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
+    <ClCompile Include="1188. 음식 평론가.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="12100. 2048(Easy).cpp" />
-    <ClCompile Include="1219. 오민식의 고민.cpp" />
     <ClCompile Include="1222. 홍준 프로그래밍 대회.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
     <ClCompile Include="12865. 평범한 배낭%401.cpp" />
@@ -350,6 +350,7 @@
     <ClCompile Include="1780. 종이의 개수.cpp" />
     <ClCompile Include="1788. 피보나치 수의 확장.cpp" />
     <ClCompile Include="1789. 수들의 합.cpp" />
+    <ClCompile Include="1790. 수 이어쓰기 2.cpp" />
     <ClCompile Include="18122. 색깔 하노이 탑.cpp" />
     <ClCompile Include="18258. 큐 2%401.c" />
     <ClCompile Include="18258. 큐 2%402.cpp" />
@@ -371,6 +372,7 @@
     <ClCompile Include="1931. 회의실배정.cpp" />
     <ClCompile Include="1932. 정수 삼각형.cpp" />
     <ClCompile Include="1953. 팀배분.cpp" />
+    <ClCompile Include="1963. 소수 경로.cpp" />
     <ClCompile Include="1965. 상자넣기.cpp" />
     <ClCompile Include="1966. 프린터 큐.cpp" />
     <ClCompile Include="1967. 트리의 지름.cpp" />
@@ -415,6 +417,7 @@
     <ClCompile Include="2447. 별 찍기 - 10.cpp" />
     <ClCompile Include="2455. 지능형 기차.cpp" />
     <ClCompile Include="2468. 안전 영역.cpp" />
+    <ClCompile Include="2490. 윷놀이.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
     <ClCompile Include="2562. 최댓값.c" />
@@ -476,6 +479,7 @@
     <ClCompile Include="5086. 배수와 약수.cpp" />
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5532. 방학 숙제.cpp" />
+    <ClCompile Include="5543. 상근날드.cpp" />
     <ClCompile Include="5557. 1학년.cpp" />
     <ClCompile Include="5567. 결혼식.cpp" />
     <ClCompile Include="5585. 거스름돈.cpp" />
