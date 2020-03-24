@@ -317,6 +317,7 @@
     <ClCompile Include="15657. N과 M (8).cpp" />
     <ClCompile Include="15663. N과 M %289%29.cpp" />
     <ClCompile Include="15663. N과 M (9)%401.cpp" />
+    <ClCompile Include="15664. N과 M (10).cpp" />
     <ClCompile Include="15665. N과 M (11).cpp" />
     <ClCompile Include="15665. N과 M %2811%29%401.cpp" />
     <ClCompile Include="15683. 감시.cpp" />
@@ -401,9 +402,11 @@
     <ClCompile Include="11053. 가장 긴 증가하는 부분 수열.cpp" />
     <ClCompile Include="2193. 이친수.cpp" />
     <ClCompile Include="2206. 벽 부수고 이동하기.cpp" />
+    <ClCompile Include="2210. 숫자판 점프.cpp" />
     <ClCompile Include="2217. 로프.cpp" />
     <ClCompile Include="2225. 합분해.cpp" />
     <ClCompile Include="2231. 분해합.cpp" />
+    <ClCompile Include="2234. 성곽.cpp" />
     <ClCompile Include="2240. 자두나무.cpp" />
     <ClCompile Include="2251. 물통%401.cpp" />
     <ClCompile Include="2251. 물통.cpp" />
@@ -467,6 +470,7 @@
     <ClCompile Include="3055. 탈출.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
+    <ClCompile Include="3671. 산업 스파이의 편지.cpp" />
     <ClCompile Include="3954. Brainf__k 인터프리터.cpp" />
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
