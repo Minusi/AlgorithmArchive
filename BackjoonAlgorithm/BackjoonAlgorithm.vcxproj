@@ -200,6 +200,7 @@
     <ClCompile Include="10773. 제로.cpp" />
     <ClCompile Include="10809. 알파벳 찾기.c" />
     <ClCompile Include="10814. 나이순 정렬.cpp" />
+    <ClCompile Include="10815. 숫자 카드.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
     <ClCompile Include="10818. 최소, 최대.c" />
     <ClCompile Include="10828. 스택%401.c" />
@@ -341,6 +342,8 @@
     <ClCompile Include="1713. 후보 추천하기.cpp" />
     <ClCompile Include="17135. 캐슬 디펜스.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
+    <ClCompile Include="17218. 비밀번호 만들기.cpp" />
+    <ClCompile Include="17219. 비밀번호 찾기.cpp" />
     <ClCompile Include="17281. 야구.cpp" />
     <ClCompile Include="17298. 오큰수.cpp" />
     <ClCompile Include="1736. 쓰레기 치우기.cpp" />
@@ -353,6 +356,7 @@
     <ClCompile Include="1788. 피보나치 수의 확장.cpp" />
     <ClCompile Include="1789. 수들의 합.cpp" />
     <ClCompile Include="1790. 수 이어쓰기 2.cpp" />
+    <ClCompile Include="18111. 마인크래프트.cpp" />
     <ClCompile Include="18122. 색깔 하노이 탑.cpp" />
     <ClCompile Include="18258. 큐 2%401.c" />
     <ClCompile Include="18258. 큐 2%402.cpp" />
@@ -390,6 +394,7 @@
     <ClCompile Include="16637. 괄호 추가하기.cpp" />
     <ClCompile Include="2004. 조합 0의 개수.cpp" />
     <ClCompile Include="2010.플러그.cpp" />
+    <ClCompile Include="2023. 신기한 소수.cpp" />
     <ClCompile Include="2033. 반올림.cpp" />
     <ClCompile Include="2042. 구간 합 구하기.cpp" />
     <ClCompile Include="2108. 통계학.cpp" />
@@ -469,6 +474,7 @@
     <ClCompile Include="3052. 나머지.c" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="3055. 탈출.cpp" />
+    <ClCompile Include="3190. 뱀.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="3671. 산업 스파이의 편지.cpp" />
@@ -482,6 +488,7 @@
     <ClCompile Include="5014. 스타트링크.cpp" />
     <ClCompile Include="5032. 탄산 음료.cpp" />
     <ClCompile Include="5086. 배수와 약수.cpp" />
+    <ClCompile Include="5397. 키로거.cpp" />
     <ClCompile Include="5430. AC.cpp" />
     <ClCompile Include="5532. 방학 숙제.cpp" />
     <ClCompile Include="5543. 상근날드.cpp" />
