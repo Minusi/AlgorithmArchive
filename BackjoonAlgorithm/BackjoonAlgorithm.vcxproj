@@ -320,6 +320,7 @@
     <ClCompile Include="15664. N과 M (10).cpp" />
     <ClCompile Include="15665. N과 M (11).cpp" />
     <ClCompile Include="15665. N과 M %2811%29%401.cpp" />
+    <ClCompile Include="15666. N과 M (12).cpp" />
     <ClCompile Include="15683. 감시.cpp" />
     <ClCompile Include="15684. 사다리 조작.cpp" />
     <ClCompile Include="1613. 역사.cpp" />
