@@ -36,7 +36,16 @@
     <ClCompile Include="Sources\Algorithms\SJTAlgorithm.cpp">
       <Filter>Algorithm</Filter>
     </ClCompile>
-    <ClCompile Include="polynomial.cpp">
+    <ClCompile Include="single_linked_list.c">
+      <Filter>Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="linked_polynomial.c">
+      <Filter>Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="polynomial.c">
+      <Filter>Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="doubly_linked_list.c">
       <Filter>Structure</Filter>
     </ClCompile>
   </ItemGroup>
