@@ -233,6 +233,7 @@
     <ClCompile Include="11286. 절대값 힙.cpp" />
     <ClCompile Include="11399. ATM.cpp" />
     <ClCompile Include="11403. 경로 찾기.cpp" />
+    <ClCompile Include="11404. 플로이드.cpp" />
     <ClCompile Include="1149. RGB거리.cpp" />
     <ClCompile Include="11505. 구간 곱 구하기.cpp" />
     <ClCompile Include="1152. 단어의 개수.cpp" />
@@ -261,6 +262,7 @@
     <ClCompile Include="1193. 분수찾기.cpp" />
     <ClCompile Include="12100. 2048(Easy).cpp" />
     <ClCompile Include="1222. 홍준 프로그래밍 대회.cpp" />
+    <ClCompile Include="1238. 파티.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
     <ClCompile Include="12865. 평범한 배낭%401.cpp" />
     <ClCompile Include="12865. 평범한 배낭.cpp" />
