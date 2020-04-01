@@ -216,6 +216,7 @@
     <ClCompile Include="10872. 팩토리얼.cpp" />
     <ClCompile Include="10886. 0 = not cute _ 1 = cute.cpp" />
     <ClCompile Include="1094. 막대기.cpp" />
+    <ClCompile Include="10950. A+B - 3.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
     <ClCompile Include="11048. 이동하기.cpp" />
@@ -330,6 +331,7 @@
     <ClCompile Include="15683. 감시.cpp" />
     <ClCompile Include="15685. 드래곤 커브.cpp" />
     <ClCompile Include="1613. 역사.cpp" />
+    <ClCompile Include="1620. 나는야 포켓몬 마스터 이다솜.cpp" />
     <ClCompile Include="16234. 인구 이동%401.cpp" />
     <ClCompile Include="16234. 인구 이동.cpp" />
     <ClCompile Include="16282. Black Chain.cpp" />
@@ -338,6 +340,7 @@
     <ClCompile Include="1629. 곱셈.cpp" />
     <ClCompile Include="16363. Secret Code.cpp" />
     <ClCompile Include="16367. TV Show Game.cpp" />
+    <ClCompile Include="1654. 랜선 자르기.cpp" />
     <ClCompile Include="1655. 가운데를 말해요.cpp" />
     <ClCompile Include="1676. 팩토리얼 0의 개수.cpp" />
     <ClCompile Include="1697. 숨바꼭질.cpp" />
@@ -432,6 +435,7 @@
     <ClCompile Include="2357. 최솟값과 최댓값.cpp" />
     <ClCompile Include="2386. 도비의 영어 공부.cpp" />
     <ClCompile Include="2438. 별 찍기 - 1.cpp" />
+    <ClCompile Include="2439. 별 찍기 - 2.cpp" />
     <ClCompile Include="2441. 별 찍기 - 4.cpp" />
     <ClCompile Include="2442. 별 찍기 - 5.cpp" />
     <ClCompile Include="2447. 별 찍기 - 10.cpp" />
@@ -439,6 +443,7 @@
     <ClCompile Include="2458. 키 순서%401.cpp" />
     <ClCompile Include="2458. 키 순서.cpp" />
     <ClCompile Include="2468. 안전 영역.cpp" />
+    <ClCompile Include="2475. 검증수.cpp" />
     <ClCompile Include="2490. 윷놀이.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
@@ -461,12 +466,16 @@
     <ClCompile Include="2668. 숫자고르기.cpp" />
     <ClCompile Include="2675. 문자열 반복.c" />
     <ClCompile Include="2698. 인접한 비트의 개수.cpp" />
+    <ClCompile Include="2739. 구구단.cpp" />
     <ClCompile Include="2740. 행렬 곱셈.cpp" />
+    <ClCompile Include="2741. N 찍기.cpp" />
+    <ClCompile Include="2742. 기찍 N.cpp" />
     <ClCompile Include="2748. 피보나치 수 2.cpp" />
     <ClCompile Include="2751. 수 정렬하기 2(힙).cpp" />
     <ClCompile Include="2751. 수 정렬하기 2.cpp" />
     <ClCompile Include="2775. 부녀회장이 될테야.cpp" />
     <ClCompile Include="2798. 블랙잭.cpp" />
+    <ClCompile Include="2805. 나무 자르기.cpp" />
     <ClCompile Include="2810. 컵홀더.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
     <ClCompile Include="2851. 슈퍼 마리오.cpp" />
@@ -476,6 +485,7 @@
     <ClCompile Include="2875. 대회 or 인턴.cpp" />
     <ClCompile Include="2884. 알람 시계.cpp" />
     <ClCompile Include="2908. 상수.c" />
+    <ClCompile Include="2920. 음계.cpp" />
     <ClCompile Include="2935. 소음.cpp" />
     <ClCompile Include="2941. 크로아티아 알파벳.c" />
     <ClCompile Include="2965. 캥거루 세마리.cpp" />
@@ -487,6 +497,7 @@
     <ClCompile Include="3052. 나머지.c" />
     <ClCompile Include="3053. 택시 기하학.cpp" />
     <ClCompile Include="3055. 탈출.cpp" />
+    <ClCompile Include="3184. 양.cpp" />
     <ClCompile Include="3190. 뱀.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
