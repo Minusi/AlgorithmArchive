@@ -219,7 +219,7 @@
     <ClCompile Include="10886. 0 = not cute _ 1 = cute.cpp" />
     <ClCompile Include="1094. 막대기.cpp" />
     <ClCompile Include="10950. A+B - 3.cpp" />
-    <ClCompile Include="10951. A + B - 4.cpp" />
+    <ClCompile Include="10951. A+B - 4.cpp" />
     <ClCompile Include="10952. A+B - 5.cpp" />
     <ClCompile Include="10989. 수 정렬하기 3.cpp" />
     <ClCompile Include="11047. 동전 0.cpp" />
@@ -266,10 +266,12 @@
     <ClCompile Include="11866. 조세퍼스 문제 0.cpp" />
     <ClCompile Include="1188. 음식 평론가.cpp" />
     <ClCompile Include="1193. 분수찾기.cpp" />
+    <ClCompile Include="1195. 킥다운.cpp" />
     <ClCompile Include="12100. 2048(Easy).cpp" />
     <ClCompile Include="1222. 홍준 프로그래밍 대회.cpp" />
     <ClCompile Include="1238. 파티.cpp" />
     <ClCompile Include="1260. DFS와 BFS.cpp" />
+    <ClCompile Include="1261. 알고스팟.cpp" />
     <ClCompile Include="12865. 평범한 배낭%401.cpp" />
     <ClCompile Include="12865. 평범한 배낭.cpp" />
     <ClCompile Include="1297. TV 크기.cpp" />
