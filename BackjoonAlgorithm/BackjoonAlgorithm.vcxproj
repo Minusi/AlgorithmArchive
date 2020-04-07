@@ -194,6 +194,7 @@
     <ClCompile Include="1057. 토너먼트.cpp" />
     <ClCompile Include="1059. 수2.cpp" />
     <ClCompile Include="10610. 30.cpp" />
+    <ClCompile Include="1062. 가르침.cpp" />
     <ClCompile Include="1063. 킹.cpp" />
     <ClCompile Include="1065. 한수.cpp" />
     <ClCompile Include="1072. 게임.cpp" />
@@ -203,6 +204,7 @@
     <ClCompile Include="10797. 10부제.cpp" />
     <ClCompile Include="10809. 알파벳 찾기.c" />
     <ClCompile Include="10814. 나이순 정렬.cpp" />
+    <ClCompile Include="10815. 숫자 카드.cpp" />
     <ClCompile Include="10816. 숫자 카드 2.cpp" />
     <ClCompile Include="10818. 최소, 최대.c" />
     <ClCompile Include="10828. 스택%401.c" />
@@ -457,6 +459,7 @@
     <ClCompile Include="2475. 검증수.cpp" />
     <ClCompile Include="2490. 윷놀이.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
+    <ClCompile Include="2512. 예산.cpp" />
     <ClCompile Include="2557. Hello World.cpp" />
     <ClCompile Include="2562. 최댓값.c" />
     <ClCompile Include="2565. 전깃줄.cpp" />
@@ -492,6 +495,7 @@
     <ClCompile Include="2798. 블랙잭.cpp" />
     <ClCompile Include="2805. 나무 자르기.cpp" />
     <ClCompile Include="2810. 컵홀더.cpp" />
+    <ClCompile Include="2822. 점수 계산.cpp" />
     <ClCompile Include="2839. 설탕 배달.cpp" />
     <ClCompile Include="2851. 슈퍼 마리오.cpp" />
     <ClCompile Include="2858. 기숙사 바닥.cpp" />
@@ -523,6 +527,7 @@
     <ClCompile Include="4153. 직각삼각형.cpp" />
     <ClCompile Include="4195. 친구 네트워크.cpp" />
     <ClCompile Include="4344. 평균은 넘겠지.cpp" />
+    <ClCompile Include="5427. 불.cpp" />
     <ClCompile Include="5624. 좋은 수.cpp" />
     <ClCompile Include="4673. 셀프 넘버.cpp" />
     <ClCompile Include="4948. 베르트랑 공준.cpp" />
