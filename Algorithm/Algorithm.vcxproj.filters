@@ -45,7 +45,10 @@
     <ClCompile Include="doubly_linked_list.c">
       <Filter>Structure</Filter>
     </ClCompile>
-    <ClCompile Include="segment_tree.cpp">
+    <ClCompile Include="segment_tree_recur.cpp">
+      <Filter>Structure</Filter>
+    </ClCompile>
+    <ClCompile Include="segment_tree_iter.cpp">
       <Filter>Structure</Filter>
     </ClCompile>
   </ItemGroup>

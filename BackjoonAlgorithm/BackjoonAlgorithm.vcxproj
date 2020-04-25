@@ -291,7 +291,6 @@
     <ClCompile Include="13458. 시험 감독.cpp" />
     <ClCompile Include="13460. 구슬 탈출 2.cpp" />
     <ClCompile Include="1352. 문자열.cpp" />
-    <ClCompile Include="13537. 수열과 쿼리 1.cpp" />
     <ClCompile Include="1389. 케빈 베이컨의 6단계 법칙.cpp" />
     <ClCompile Include="13910. 개업%401.cpp" />
     <ClCompile Include="13910. 개업.cpp" />
@@ -363,6 +362,7 @@
     <ClCompile Include="1712. 손익분기점.cpp" />
     <ClCompile Include="1713. 후보 추천하기.cpp" />
     <ClCompile Include="17135. 캐슬 디펜스.cpp" />
+    <ClCompile Include="17144. 미세먼지 안녕!.cpp" />
     <ClCompile Include="1717. 집합의 표현.cpp" />
     <ClCompile Include="17218. 비밀번호 만들기.cpp" />
     <ClCompile Include="17219. 비밀번호 찾기.cpp" />
@@ -463,6 +463,7 @@
     <ClCompile Include="2468. 안전 영역.cpp" />
     <ClCompile Include="2475. 검증수.cpp" />
     <ClCompile Include="2490. 윷놀이.cpp" />
+    <ClCompile Include="2493. 탑%401.cpp" />
     <ClCompile Include="2493. 탑.cpp" />
     <ClCompile Include="2503. 숫자 야구.cpp" />
     <ClCompile Include="2512. 예산.cpp" />
