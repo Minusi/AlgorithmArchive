@@ -42,10 +42,10 @@
     <ClCompile Include="linked_polynomial.c">
       <Filter>Structure</Filter>
     </ClCompile>
-    <ClCompile Include="polynomial.c">
+    <ClCompile Include="doubly_linked_list.c">
       <Filter>Structure</Filter>
     </ClCompile>
-    <ClCompile Include="doubly_linked_list.c">
+    <ClCompile Include="segment_tree.cpp">
       <Filter>Structure</Filter>
     </ClCompile>
   </ItemGroup>
