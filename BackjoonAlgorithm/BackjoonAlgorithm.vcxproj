@@ -535,6 +535,7 @@
     <ClCompile Include="4195. 친구 네트워크.cpp" />
     <ClCompile Include="4344. 평균은 넘겠지.cpp" />
     <ClCompile Include="5427. 불.cpp" />
+    <ClCompile Include="5549. 행성 탐사.cpp" />
     <ClCompile Include="5624. 좋은 수.cpp" />
     <ClCompile Include="4673. 셀프 넘버.cpp" />
     <ClCompile Include="4948. 베르트랑 공준.cpp" />
@@ -557,6 +558,7 @@
     <ClCompile Include="5639. 이진 검색 트리.cpp" />
     <ClCompile Include="6064. 카잉 달력.cpp" />
     <ClCompile Include="6087. 레이저 통신.cpp" />
+    <ClCompile Include="6118. 숨바꼭질.cpp" />
     <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp" />
     <ClCompile Include="6593. 상범 빌딩.cpp" />
     <ClCompile Include="6603. 로또.cpp" />
