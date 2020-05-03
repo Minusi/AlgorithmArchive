@@ -188,7 +188,9 @@
     <ClCompile Include="1022. 소용돌이 예쁘게 출력하기.cpp" />
     <ClCompile Include="10250. ACM 호텔.cpp" />
     <ClCompile Include="1027. 고층 건물.cpp" />
+    <ClCompile Include="1032. 명령 프롬프트.cpp" />
     <ClCompile Include="1037. 약수.cpp" />
+    <ClCompile Include="1043. 거짓말.cpp" />
     <ClCompile Include="10448. 유레카 이론.cpp" />
     <ClCompile Include="10527. Judging Troubles.cpp" />
     <ClCompile Include="1057. 토너먼트.cpp" />

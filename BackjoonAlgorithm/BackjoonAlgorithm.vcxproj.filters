@@ -145,6 +145,9 @@
     <Filter Include="소스 파일\Category\Segment">
       <UniqueIdentifier>{a6babd58-3c9e-421c-a565-8a66b1a369d2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Category\String">
+      <UniqueIdentifier>{c1ab2f3d-d6eb-4c22-a7c4-c176bdb8f95f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Sources\baekjoon-1932.cpp">
@@ -1427,6 +1430,12 @@
     </ClCompile>
     <ClCompile Include="1062. 가르침%402.cpp">
       <Filter>소스 파일\Category\Simul</Filter>
+    </ClCompile>
+    <ClCompile Include="1043. 거짓말.cpp">
+      <Filter>소스 파일\Category\Simul</Filter>
+    </ClCompile>
+    <ClCompile Include="1032. 명령 프롬프트.cpp">
+      <Filter>소스 파일\Category\String</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
