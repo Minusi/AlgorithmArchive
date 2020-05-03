@@ -194,6 +194,8 @@
     <ClCompile Include="1057. 토너먼트.cpp" />
     <ClCompile Include="1059. 수2.cpp" />
     <ClCompile Include="10610. 30.cpp" />
+    <ClCompile Include="1062. 가르침%401.cpp" />
+    <ClCompile Include="1062. 가르침%402.cpp" />
     <ClCompile Include="1062. 가르침.cpp" />
     <ClCompile Include="1063. 킹.cpp" />
     <ClCompile Include="1065. 한수.cpp" />
@@ -215,6 +217,7 @@
     <ClCompile Include="10845. 큐.cpp" />
     <ClCompile Include="1085. 직사각형에서 탈출.cpp" />
     <ClCompile Include="10866. 덱..cpp" />
+    <ClCompile Include="10868. 최솟값.cpp" />
     <ClCompile Include="10869. 사칙연산.cpp" />
     <ClCompile Include="10870. 피보나치 수 5.cpp" />
     <ClCompile Include="10871. X보다 작은 수.cpp" />
@@ -528,6 +531,7 @@
     <ClCompile Include="3184. 양.cpp" />
     <ClCompile Include="3190. 뱀.cpp" />
     <ClCompile Include="3474. 교수가 된 현우.cpp" />
+    <ClCompile Include="3653. 영화 수집.cpp" />
     <ClCompile Include="3665. 최종 순위.cpp" />
     <ClCompile Include="3671. 산업 스파이의 편지.cpp" />
     <ClCompile Include="3954. Brainf__k 인터프리터.cpp" />

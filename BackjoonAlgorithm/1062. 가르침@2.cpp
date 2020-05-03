@@ -15,38 +15,21 @@
 //int n, k;
 //int answer = 0;
 //
-//bool flag = false;
-//bool check[NUM_ALPHABET] = { false };
-//string word[nmax];
-//void backtracking(const int num_char, int start, int count = 0)
+//bool inverse = false;
+//
+//int num_char;
+//int word[nmax];
+//int check = 0;
+//void backtracking(int start, int count = 0)
 //{
 //	if (count == num_char)
 //	{
-//#ifdef _DEBUG
-//		for (int i = 0; i < NUM_ALPHABET; ++i)
-//			if (check[i] == flag)
-//				cout << (char)(i + 'a') << " ";
-//#endif // _DEBUG
-//
 //		int num_word = 0;
 //		for (int i = 0; i < n; ++i)
 //		{
-//			bool success = true;
-//			for (const auto& it : word[i])
-//			{
-//				if (check[it - 'a'] == false)
-//				{
-//					success = false;
-//					break;
-//				}
-//			}
-//			if(success == true)
+//			if ((word[i] & ~check) == 0)
 //				num_word++;
 //		}
-//
-//#ifdef _DEBUG
-//		cout << num_word << "\n";
-//#endif // _DEBUG
 //
 //		if (answer < num_word)
 //			answer = num_word;
@@ -59,9 +42,18 @@
 //		if (character == 'a' || character == 'c' || character == 't' ||
 //			character == 'i' || character == 'n')
 //			continue;
-//		check[i] = flag;
-//		backtracking(num_char, i + 1, count + 1);
-//		check[i] = !flag;
+//		if (inverse == true)
+//		{
+//			check &= ~(1 << i);
+//			backtracking(i + 1, count + 1);
+//			check |= (1 << i);
+//		}
+//		else
+//		{
+//			check |= (1 << i);
+//			backtracking(i + 1, count + 1);
+//			check &= ~(1 << i);
+//		}
 //	}
 //}
 //int main()
@@ -81,30 +73,29 @@
 //	for (int i = 0; i < n; ++i)
 //	{
 //		cin >> input;
-//		word[i].reserve(input.size() - 8);
 //		for (const auto it : input)
 //		{
 //			if (it == 'a' || it == 'c' || it == 't' || it == 'i' || it == 'n')
 //				continue;
 //
-//			word[i].push_back(it);
+//			word[i] |= (1 << (it - 'a'));
 //		}
 //	}
 //
 //	
 //	if (k - 5 >= NUM_ALPHABET - k)
 //	{
-//		flag = false;
-//		for (int i = 0; i < NUM_ALPHABET; ++i)
-//			check[i] = !flag;
-//		backtracking(NUM_ALPHABET - k, 0, 0);
+//		inverse = true;
+//		check = 0xFFFFFFFF;
+//		num_char = NUM_ALPHABET - k;
+//		backtracking(0, 0);
 //	}
 //	else
 //	{
-//		flag = true;
-//		for (int i = 0; i < NUM_ALPHABET; ++i)
-//			check[i] = !flag;
-//		backtracking(k - 5, 0, 0);
+//		inverse = false;
+//		check = 0X00000000;
+//		num_char = k - 5;
+//		backtracking(0, 0);
 //	}
 //
 //	cout << answer << "\n";
