@@ -1437,6 +1437,24 @@
     <ClCompile Include="1032. 명령 프롬프트.cpp">
       <Filter>소스 파일\Category\String</Filter>
     </ClCompile>
+    <ClCompile Include="3109. 빵집.cpp">
+      <Filter>소스 파일\Category\BackT</Filter>
+    </ClCompile>
+    <ClCompile Include="4641. Doubles.cpp">
+      <Filter>소스 파일\Category\Brute</Filter>
+    </ClCompile>
+    <ClCompile Include="1051. 숫자 정사각형.cpp">
+      <Filter>소스 파일\Category\Brute</Filter>
+    </ClCompile>
+    <ClCompile Include="1941. 소문난 칠공주.cpp">
+      <Filter>소스 파일\Category\BackT</Filter>
+    </ClCompile>
+    <ClCompile Include="3085. 사탕 게임.cpp">
+      <Filter>소스 파일\Category\Brute</Filter>
+    </ClCompile>
+    <ClCompile Include="17136. 색종이 붙이기.cpp">
+      <Filter>소스 파일\Collection\N과 M</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Sources\Essential.h">
