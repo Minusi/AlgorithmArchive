@@ -162,19 +162,7 @@
     <ClCompile Include="Utility.cpp">
       <Filter>소스 파일\_Custom</Filter>
     </ClCompile>
-    <ClCompile Include="2630. 색종이 만들기.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="10816. 숫자 카드 2.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
     <ClCompile Include="10845. 큐.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1992. 쿼드트리.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="6549. 히스토그램에서 가장 큰 직사각형.cpp">
       <Filter>소스 파일\Level</Filter>
     </ClCompile>
     <ClCompile Include="17298. 오큰수.cpp">
@@ -197,84 +185,6 @@
     </ClCompile>
     <ClCompile Include="2606. 바이러스.cpp">
       <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="1517. 버블 소트.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1753. 최단경로.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1504. 특정한 최단 경로.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="9370. 미확인 도착지.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="16367. TV Show Game.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="11277. 2-SAT-1.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="2150. Strongly Connected Component.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="2252. 줄 세우기..cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1766. 문제집.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="3665. 최종 순위.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1780. 종이의 개수.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="2740. 행렬 곱셈.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="13344. 국제 체스대회.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="1717. 집합의 표현.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="4195. 친구 네트워크.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="13335. 트럭.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="13325. 이진 트리.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="13334. 철로.cpp">
-      <Filter>소스 파일\Level</Filter>
-    </ClCompile>
-    <ClCompile Include="16363. Secret Code.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="16288. Passport Control.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="16283. Farm.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="14754. Pizza Boxes.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="14753. MultiMax.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="14746. Cloest Pair.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="13332. Project Team.cpp">
-      <Filter>소스 파일\Contest</Filter>
-    </ClCompile>
-    <ClCompile Include="16282. Black Chain.cpp">
-      <Filter>소스 파일\Contest</Filter>
     </ClCompile>
     <ClCompile Include="PA.cpp">
       <Filter>소스 파일\Contest\ACM</Filter>
@@ -317,12 +227,6 @@
     </ClCompile>
     <ClCompile Include="14502. 연구소.cpp">
       <Filter>소스 파일\Category\Brute</Filter>
-    </ClCompile>
-    <ClCompile Include="14501. 퇴사.cpp">
-      <Filter>소스 파일\Category\Brute</Filter>
-    </ClCompile>
-    <ClCompile Include="10830. 행렬 제곱.cpp">
-      <Filter>소스 파일\Level</Filter>
     </ClCompile>
     <ClCompile Include="2839. 설탕 배달.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
@@ -417,9 +321,6 @@
     <ClCompile Include="1924. 2007년.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
-    <ClCompile Include="1475. 방 번호.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
     <ClCompile Include="2557. Hello World.cpp">
       <Filter>소스 파일\Level\Print</Filter>
     </ClCompile>
@@ -429,35 +330,17 @@
     <ClCompile Include="10871. X보다 작은 수.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
-    <ClCompile Include="1764. 듣보잡.cpp">
-      <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
-    <ClCompile Include="11659. 구간 합 구하기 4.cpp">
-      <Filter>소스 파일\Level\SegmentTree</Filter>
-    </ClCompile>
-    <ClCompile Include="2357. 최솟값과 최댓값.cpp">
-      <Filter>소스 파일\Level\SegmentTree</Filter>
-    </ClCompile>
     <ClCompile Include="8979. 올림픽.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
     <ClCompile Include="1072. 게임.cpp">
       <Filter>소스 파일\Category\Brute</Filter>
     </ClCompile>
-    <ClCompile Include="10527. Judging Troubles.cpp">
-      <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
-    <ClCompile Include="1184. 귀농.cpp">
-      <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
     <ClCompile Include="10872. 팩토리얼.cpp">
       <Filter>소스 파일\Level\Recursion</Filter>
     </ClCompile>
     <ClCompile Include="2935. 소음.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
-    <ClCompile Include="2042. 구간 합 구하기.cpp">
-      <Filter>소스 파일\Level\SegmentTree</Filter>
     </ClCompile>
     <ClCompile Include="11724. 연결 요소의 개수.cpp">
       <Filter>소스 파일\Category\Brute</Filter>
@@ -477,43 +360,10 @@
     <ClCompile Include="14891. 톱니바퀴.cpp">
       <Filter>소스 파일\Category\Simul</Filter>
     </ClCompile>
-    <ClCompile Include="11505. 구간 곱 구하기.cpp">
-      <Filter>소스 파일\Level\SegmentTree</Filter>
-    </ClCompile>
-    <ClCompile Include="11658. 구간 합 구하기 3.cpp">
-      <Filter>소스 파일\Level\SegmentTree</Filter>
-    </ClCompile>
     <ClCompile Include="11729. 하노이 탑 이동 순서.cpp">
       <Filter>소스 파일\Level\Recursion</Filter>
     </ClCompile>
-    <ClCompile Include="2698. 인접한 비트의 개수.cpp">
-      <Filter>소스 파일\Category\Dynamic</Filter>
-    </ClCompile>
-    <ClCompile Include="1120. 문자열.cpp">
-      <Filter>소스 파일\Category\Simul</Filter>
-    </ClCompile>
-    <ClCompile Include="1057. 토너먼트.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
-    <ClCompile Include="1076. 저항.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
-    <ClCompile Include="9322. 철벽 보안 알고리즘.cpp">
-      <Filter>소스 파일\Category\DataStruct</Filter>
-    </ClCompile>
-    <ClCompile Include="1551. 수열의 변화.cpp">
-      <Filter>소스 파일\Category\Simul</Filter>
-    </ClCompile>
-    <ClCompile Include="1297. TV 크기.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
-    <ClCompile Include="2965. 캥거루 세마리.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
     <ClCompile Include="2010.플러그.cpp">
-      <Filter>소스 파일\Category\Math</Filter>
-    </ClCompile>
-    <ClCompile Include="1629. 곱셈.cpp">
       <Filter>소스 파일\Category\Math</Filter>
     </ClCompile>
     <ClCompile Include="1977. 완전제곱수.cpp">
@@ -588,9 +438,6 @@
     <ClCompile Include="5032. 탄산 음료.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
-    <ClCompile Include="3005. 크로스워드 퍼즐 쳐다보기.cpp">
-      <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
     <ClCompile Include="2810. 컵홀더.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
@@ -631,9 +478,6 @@
       <Filter>소스 파일\Category\Dynamic</Filter>
     </ClCompile>
     <ClCompile Include="2225. 합분해.cpp">
-      <Filter>소스 파일\Category\Dynamic</Filter>
-    </ClCompile>
-    <ClCompile Include="1965. 상자넣기.cpp">
       <Filter>소스 파일\Category\Dynamic</Filter>
     </ClCompile>
     <ClCompile Include="1736. 쓰레기 치우기.cpp">
@@ -763,12 +607,6 @@
       <Filter>소스 파일\Level\Sort</Filter>
     </ClCompile>
     <ClCompile Include="10989. 수 정렬하기 3.cpp">
-      <Filter>소스 파일\Level\Sort</Filter>
-    </ClCompile>
-    <ClCompile Include="2108. 통계학.cpp">
-      <Filter>소스 파일\Level\Sort</Filter>
-    </ClCompile>
-    <ClCompile Include="1427. 소트인사이드.cpp">
       <Filter>소스 파일\Level\Sort</Filter>
     </ClCompile>
     <ClCompile Include="11650. 좌표 정렬하기.cpp">
@@ -966,9 +804,6 @@
     <ClCompile Include="1389. 케빈 베이컨의 6단계 법칙.cpp">
       <Filter>소스 파일\Category\DFS</Filter>
     </ClCompile>
-    <ClCompile Include="1613. 역사.cpp">
-      <Filter>소스 파일\Category\DFS</Filter>
-    </ClCompile>
     <ClCompile Include="18258. 큐 2.c">
       <Filter>소스 파일\Level\Queue/Deck</Filter>
     </ClCompile>
@@ -1051,9 +886,6 @@
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
     <ClCompile Include="1022. 소용돌이 예쁘게 출력하기.cpp">
-      <Filter>소스 파일\Category\Imple</Filter>
-    </ClCompile>
-    <ClCompile Include="2033. 반올림.cpp">
       <Filter>소스 파일\Category\Imple</Filter>
     </ClCompile>
     <ClCompile Include="6087. 레이저 통신.cpp">
@@ -1230,9 +1062,6 @@
     <ClCompile Include="18111. 마인크래프트.cpp">
       <Filter>소스 파일\Random</Filter>
     </ClCompile>
-    <ClCompile Include="1756. 피자 굽기.cpp">
-      <Filter>소스 파일\Random</Filter>
-    </ClCompile>
     <ClCompile Include="14890. 경사로.cpp">
       <Filter>소스 파일\Category\Simul</Filter>
     </ClCompile>
@@ -1392,9 +1221,6 @@
     <ClCompile Include="2110. 공유기 설치.cpp">
       <Filter>소스 파일\Level\Bisearch</Filter>
     </ClCompile>
-    <ClCompile Include="2166. 다각형의 면적.cpp">
-      <Filter>소스 파일\Random</Filter>
-    </ClCompile>
     <ClCompile Include="1952. 달팽이2.cpp">
       <Filter>소스 파일\Category\Simul</Filter>
     </ClCompile>
@@ -1406,9 +1232,6 @@
     </ClCompile>
     <ClCompile Include="2493. 탑.cpp">
       <Filter>소스 파일\Random</Filter>
-    </ClCompile>
-    <ClCompile Include="17144. 미세먼지 안녕!.cpp">
-      <Filter>소스 파일\Collection\Samsung SW</Filter>
     </ClCompile>
     <ClCompile Include="2493. 탑%401.cpp">
       <Filter>소스 파일\Random</Filter>
@@ -1436,6 +1259,12 @@
     </ClCompile>
     <ClCompile Include="1032. 명령 프롬프트.cpp">
       <Filter>소스 파일\Category\String</Filter>
+    </ClCompile>
+    <ClCompile Include="6679. 싱기한 네자리 숫자.cpp">
+      <Filter>소스 파일\Category\Brute</Filter>
+    </ClCompile>
+    <ClCompile Include="3048. 개미.cpp">
+      <Filter>소스 파일\Category\Simul</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
